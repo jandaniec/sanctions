@@ -1,0 +1,1141 @@
+Number,Date,Question,Answer,Hashtag,Countries,Link,0
+1,09/10/2002,What is OFAC and what does it do?,"The Office of Foreign Assets Control administers and enforces economic sanctions programs primarily against countries and groups of individuals, such as terrorists and narcotics traffickers. The sanctions can be either comprehensive or selective, using the blocking of assets and trade restrictions to accomplish foreign policy and national security goals.",Basic Information on OFAC and Sanctions,,,
+2,05/02/2006,How long has OFAC been around?,,Basic Information on OFAC and Sanctions,,,
+3,06/16/2006,"What does one mean by the term ""prohibited transactions""?",,Basic Information on OFAC and Sanctions,,,
+4,06/16/2006,Are there exceptions to the prohibitions?,,Basic Information on OFAC and Sanctions,,,
+5,01/30/2015,How do I determine if I have a valid OFAC match?,,Assessing OFAC Name Matches,,,
+6,05/21/2018,Where can I find the specific details about the embargoes?,,Basic Information on OFAC and Sanctions,,,
+7,09/10/2002,Can I get permission from OFAC to transact or trade with an embargoed country?,,Basic Information on OFAC and Sanctions,,,
+8,09/10/2002,What must I do to get permission to trade with an embargoed country?,,"Basic Information on OFAC and Sanctions
+Licensing",,,
+9,09/10/2002,"What do you mean by ""blocking?""",,"Basic Information on OFAC and Sanctions
+Blocking",,,
+10,05/21/2018,What countries do I need to worry about in terms of U.S. sanctions?,,Basic Information on OFAC and Sanctions,,,
+11,01/15/2015,Who must comply with OFAC regulations?,,Basic Information on OFAC and Sanctions,,,
+12,03/08/2017,How much are the fines for violating these regulations?,,Basic Information on OFAC and Sanctions,,,
+13,12/04/2020,"How can I report a possible violation of OFAC regulations by my company to OFAC? Will I receive ""amnesty"" if I report a possible violation to OFAC or if my failure to comply with OFAC regulations was inadvertent?",,Basic Information on OFAC and Sanctions,,,
+14,09/10/2002,"Can I regard previously issued and published opinion letters, regulatory interpretations, or other statements as guidance for my transactions?",,Basic Information on OFAC and Sanctions,,,
+15,09/10/2002,"Can OFAC change its previously stated, non-published interpretation or opinion without first giving public notice?",,Basic Information on OFAC and Sanctions,,,
+16,,,,,,,
+17,,,,,,,
+18,,,,,,,
+19,,,,,,,
+20,,,,,,,
+21,,,,,,,
+22,10/08/2013,Does OFAC maintain or can it create a country-by-country list of Specially Designated Nationals (SDNs)?,"OFAC has long maintained such a list. The file is available on OFAC's SDN Page under the link ""SDN List Sorted by Country."" The file is also contained within the SDALL.ZIP archive and is called ctrylst.txt. It is important to understand that many SDN individuals and entities may operate in countries other than those in which they are based. The relevant regulations prohibit transactions with and/or block the property of SDNs wherever they are located.",Information on list file formats and downloads,,,
+23,,,,,,,
+24,,,,,,,
+25,09/10/2002,Does OFAC itself require that banks set up a certain type of compliance program?,,Starting an OFAC Compliance Program,,,
+26,,,,,,,
+27,1/30/2015,What do I need to do to comply? Do I have to buy expensive software?,,Starting an OFAC Compliance Program,,,
+28,1/30/2015,How often do I need to scan my customer database against OFAC's sanctions lists?,,Starting an OFAC Compliance Program,,,
+29,1/30/2015,How do I setup a compliance program for my bank?,,Starting an OFAC Compliance Program,,,
+30,09/10/2002,How do I know if my compliance program is adequate?,,Starting an OFAC Compliance Program,,,
+31,1/30/2015,What are the features and benefits that banks should be looking for when selecting an OFAC compliance software package?,,Starting an OFAC Compliance Program,,,
+32,09/10/2002,How do I block an account or a funds transfer?,,Blocking and Rejecting Transactions,,,
+33,09/10/2002,How much interest do I have to pay on the blocked funds?,,,,,
+34,09/10/2002,Can my bank deduct service charges from the account?,,,,,
+35,,,,,,,
+36,,,,,,,
+37,,,,,,,
+38,,,,,,,
+39,,,,,,,
+40,,,,,,,
+41,,,,,,,
+42,,,,,,,
+43,,,,,,,
+44,,,,,,,
+45,,,,,,,
+46,,,,,,,
+47,,,,,,,
+48,,,,,,,
+49,7/28/2017,"If I reject or block a transaction, when do I have to report the action to OFAC? How do I submit the report?",,31 C.F.R. Parts §§501.603 and 501.604,,,
+50,6/30/2017,Is there a requirement for annual reporting of blocked property? Is there a required format?,,,,,
+51,10/08/2013,How do I apply for a license to get my money unblocked?,"With respect to blocked funds transfers, you are encouraged to file an electronic application to have blocked funds released by visiting the following link: https://licensing.ofac.treas.gov/Apply/Introduction.aspx
+
+You may also submit an application for the release of blocked funds which is available on OFAC's website under ""Forms."" You should print this form, complete the required information, attach payment instructions, and mail it to:
+
+Office of Foreign Assets Control
+U.S. Department of the Treasury
+Treasury Annex
+1500 Pennsylvania Avenue, NW
+Washington, DC 20220
+Attn: Licensing Division
+
+It is extremely important that the underlying transaction be described in detail and copies of supporting documentation be included in the package. ",License general,,,
+52,,,,,,,
+53,,,,,,,
+54,,,,,,,
+55,,,,,,,
+56,,,,,,,
+57,,,,,,,
+58,09/10/2002,What are the chances that my application will be approved?,"Each application is reviewed on a case-by-case basis and often requires interagency consultation. Although we cannot predict how long this review might take, following existing application guidelines will help to expedite your determination.",License general,,,
+59,09/10/2002,Do I need a registration number or license to donate goods?,"Most OFAC sanctions programs provide exemptions to their prohibitions for certain donated goods, such as articles to relieve human suffering. This is not the case for all programs, however. You should refer to the legal section of OFAC's website for the regulations applicable to the specific target or target country of your donation. ",License general,,,
+60,,,,,,,
+61,,,,,,,
+62,,,,,,,
+63,,,,,,,
+64,,,,,,,
+65,,,,,,,
+66,,,,,,,
+67,,,,,,,
+68,,,,,,,
+69,,,,,,,
+70,1/30/2015,What Is This OFAC Information On My Credit Report?,"Credit bureaus and agencies in particular have adopted new measures to ensure compliance with OFAC regulations. Before issuing a credit report, they use screening software to determine if a credit applicant is on OFAC's Specially Designated Nationals (SDN) list or one of OFAC's other sanctions lists. This software matches the credit applicant's name and other information to the names on OFAC's sanctions lists. If there is a potential match, the credit bureaus may place a ""red flag"" or alert on the report. This does not necessarily mean that someone is illegally using your social security number or that you have bad credit. It is merely a reminder to the person checking your credit that he or she should verify whether you are the individual on one of OFAC's sanctions lists by comparing your information to the OFAC information. If you are not the individual on the sanctions list, the person checking your credit should disregard the OFAC alert, and there is no need to contact OFAC. However, if the person checking your credit believes you are the person on one of OFAC's sanctions lists, then he or she should call the OFAC Hotline to verify and report it. ",OFAC Information on a Credit Report,,,
+71,1/30/2015,How Can I Get The OFAC Alert Off My Credit Report?,"A consumer has the right under the Fair Credit Reporting Act (FCRA), 15 U.S.C. 1681 et seq., to request the removal of incorrect information on his/her credit report. To accomplish this, consumers should contact the credit reporting agency or bureau that issued the credit report. For more information on consumers' rights under the FCRA, visit the Federal Trade Commission's website at http://www.ftc.gov/os/statutes/fcrajump.shtm or the Consumer Financial Protection Bureau at 855-411-2372.",,,,
+72,,,,,,,
+73,,,,,,,
+74,06/16/2016,What is a license?,"A license is an authorization from OFAC to engage in a transaction that otherwise would be prohibited. There are two types of licenses: general licenses and specific licenses.
+
+A general license authorizes a particular type of transaction for a class of persons without the need to apply for a license.
+
+A specific license is a written document issued by OFAC to a particular person or entity, authorizing a particular transaction in response to a written license application.
+
+Persons engaging in transactions pursuant to general or specific licenses must make sure that all conditions of the licenses are strictly observed.
+
+OFAC's regulations may contain statements of OFAC's specific licensing policy with respect to particular types of transactions.",License general,,,
+75,10/08/2013,Do I have to fill out a particular form to get a license to engage in a transaction?,"Most license applications do not have to be submitted on a particular form. However, it is essential to include in the request all necessary information as required in the application guidelines or the regulations pertaining to the particular embargo program. When applying for a license, provide a detailed description of the proposed transaction, including the names and addresses of any individuals/companies involved. The mailing address for license applications is:
+
+Office of Foreign Assets Control
+U.S. Department of the Treasury
+Treasury Annex
+1500 Pennsylvania Avenue, NW
+Washington, DC 20220
+Attn: Licensing Division
+
+In order to apply for a specific license to release blocked funds, you are encouraged to file an electronic application to have blocked funds released by visiting the following link: https://licensing.ofac.treas.gov/Apply/Introduction.aspx
+
+You may also submit an application for the release of blocked funds which is available on OFAC's website under ""Forms."" You should print this form, complete the required information, attach payment instructions, and mail it to the address listed above.
+
+Depending upon the transaction, there may be specific guidance available on OFAC's website under relevant ""Guidance on Licensing policy"" on OFAC's various sanctions program web pages. ",License general,,,
+76,09/10/2002,Can I appeal a denial of my license application?,"A denial by OFAC of a license application constitutes final agency action. The regulations do not provide for a formal process of appeal. However, OFAC will reconsider its determinations for good cause, for example, where the applicant can demonstrate changed circumstances or submit additional relevant information not previously made available to OFAC.",License general,,,
+77,10/08/2013,How can I find out the status of my pending license application?,"OFAC will notify applicants in writing as soon as a determination has been made on their application. The length of time for determinations to be reached will vary depending on the complexity of the transactions under consideration, the scope and detail of interagency coordination, and the volume of similar applications awaiting consideration. Applicants are encouraged to wait at least two weeks before telephonically contacting the Licensing Division at (202) 622-2480 to inquire about the status of their application. Callers can use OFAC's automated license application status hotline (accessible through the 202-622-2480 number) to check on the status of their application. ",License general,,,
+78,06/16/2006,What agencies other than Treasury review OFAC license applications and what are the roles of these other agencies?,"OFAC will notify applicants in writing as soon as a determination has been made on their application. The length of time for determinations to be reached will vary depending on the complexity of the transactions under consideration, the scope and detail of interagency coordination, and the volume of similar applications awaiting consideration. Applicants are encouraged to wait at least two weeks before telephonically contacting the Licensing Division at (202) 622-2480 to inquire about the status of their application. Callers can use OFAC's automated license application status hotline (accessible through the 202-622-2480 number) to check on the status of their application. ",License general,,,
+79,12/19/2007,Does OFAC provide its Specially Designated Nationals (SDN) List in a format that can be easily imported into a database?,"Yes. OFAC's SDN list is available in XML, fixed-field and delimited formats that can be imported into a variety of software programs.",Information on List File Formats and Downloads,,,
+80,6/14/2007,Does OFAC provide its Specially Designated Nationals (SDN) List in a spreadsheet format?,OFAC publishes the SDN data in a comma separated values format (CSV). This format is recognized by Excel and other spreadsheet programs and can be imported into spreadsheet format by simply opening the file in your default spreadsheet application.,Information on List File Formats and Downloads,,,
+81,6/14/2007,What is the delimiter in OFAC's delimited files?,The delimiter varies based upon the file type. Files that end in .DEL have an @ (at) symbol as the delimiter. Files that end in .CSV have a comma delimiter. Files that end in .FF have a fixed width delimiter. Files that end in .PIP use the | (pipe) symbol as a delimiter.,Information on List File Formats and Downloads,,,
+82,,,,,,,
+83,04/21/2015,How are OFAC's delimited files structured?,"All of OFAC's delimited files are described in OFAC's SDN data file specification guide and non-SDN data specification guide. In addition, OFAC published the following tutorial on how to construct a basic relational database using OFAC’s delimited list files.",Information on List File Formats and Downloads,,,
+84,04/13/2017,Does OFAC maintain its files on an FTP server or in locations other than on its website? Does OFAC provide its files via Secure FTP (SFTP)?,"Yes. OFAC maintains many of its sanctions list files on an FTP server.
+
+This server can be accessed at: ftp://ofacftp.treas.gov.
+
+The server will accept an anonymous login. OFAC's data is stored in the directories listed below.  OFAC does not currently support connections to this server via SFTP.
+
+/fac_sdn - SDN human-readable lists, legacy zip archive (XML and delimited files), and the advanced zip archive (advanced XML file)
+
+/fac_delim - SDN data files (advanced XML file, legacy XML file, legacy delimited files) in un archived format
+
+/ssi_list - All Sectoral Sanctions List files
+
+/fse_list - All Foreign Sanctions Evaders List files
+
+/ns_plc - All Non-SDN Palestinian Legislative Council Lists files
+
+/consolidated_list - All Consolidated Non-SDN List data files",Information on List File Formats and Downloads,,,
+85,08/06/2014,"Is there a version of the Specially Designated Nationals (SDN) data file archive that works with UNIX, Linux or other command line operating systems?",Yes. The standard zip archive should work with most UNIX and Linux systems and is available on OFAC's website at https://www.home.treasury.gov/system/files/126/sdall.zip and its FTP site at ftp://ofacftp.treas.gov in the folder /fac_sdn.,,,,
+86,,"
+Does OFAC have an email service that will notify me when there are updates to any of its sanctions lists?","Yes. OFAC has multiple e-mail subscription services available. Please visit the following link to sign up for these services:
+https://service.govdelivery.com/service/multi_subscribe.html?code=USTREAS
+OFAC also maintains a Really Simple Syndication (RSS) feed. This feed is updated whenever the OFAC site is updated.",How to Receive Notifications About OFAC Updates,,,
+87,08/06/2014,Your FTP site has gone offline. Who should I contact to remedy this problem?,The FTP site is run by OFAC. Please contact OFAC's support hotline at 1-800-540-6322 for technical support.,Information on List File Formats and Downloads,,,
+88,01/30/2015,I am a developer looking to design an automated process that will download OFAC's Specially Designated Nationals (SDN) list and other sanctions lists without human intervention. How can I do this given that changes to the sanctions lists can be sporadic?,"OFAC cannot give specific advice on how to design an automated system for downloading its sanctions list data. Many institutions solve this problem by setting up a scheduled download of the SDN List and other sanctions lists. These firms conduct their own risk assessments and decide how often they need to download the lists in order to comply with U.S. law. Institutions should be aware that OFAC is updating its sanctions lists at an ever increasing pace. If an institution has set up a periodic download schedule, the institution should occasionally reevaluate that schedule to ensure that it remains an effective risk mitigation technique.",Information on List File Formats and Downloads,,,
+89,09/10/2002,I am a database administrator at a financial institution and am responsible for keeping my company's Specially Designated Nationals (SDN) data current. Is the SDN list comprehensive or do I need to download some kind of supplement to the list every time there is an update?,"The SDN list is comprehensive. Database administrators can overwrite any old data in their systems with the latest versions of the list's data files, thus ensuring that their database is current",Information on List File Formats and Downloads,,,
+90,10/08/2013,"Do you offer a Specially Designated Nationals (SDN) changes file or ""delta file"" in a data format? Do you offer delta files for OFAC's other sanctions lists?",No. OFAC records changes to the SDN and other sanctions lists in human-readable form in the recent actions section of its website. An archive of changes files found on this page. Database administrators interested in refreshing their databases with new SDN and other sanctions list data should use the comprehensive data files available on OFAC's website and completely refresh the list.,Information on List File Formats and Downloads,,,
+91,08/11/2020,I am looking for the terrorist list on your web site so my company can comply with U.S. law. Where can I find this list?,"OFAC s regulations are broader than the specific laws dealing with terrorists and persons who support them. All individuals and entities that fall under U.S. jurisdiction should use OFAC s List of Specially Designated Nationals and Blocked Persons (SDN List). This list includes specially designated global terrorists and narcotics traffickers, among other designated persons, and is available on OFAC s website. In addition, OFAC maintains other sanctions lists that may have different prohibitions associated with each that apply to U.S. persons or transactions otherwise subject to U.S. jurisdiction. It is important to note that some OFAC sanctions block categories of persons even if those persons do not appear on the SDN List. For example, this is the case for any person that meets the definition of the Government of Venezuela in Executive Order 13884 of August 5, 2019 ( Blocking Property of the Government of Venezuela ). It is also important to note that OFAC s Cuba sanctions prohibit most transactions with Cuban nationals, wherever located. U.S. persons are expected to exercise due diligence in determining whether any such persons are involved in a proposed transaction.",Basic information on OFAC and Sanctions,,,
+92,04/21/2015,I'm a subscriber to OFAC's e-mail notification services. For some reason I have stopped receiving the broadcast messages when OFAC updates its website. Why is this?,"Check to see if the messages are in your SPAM folder. Mostly likely, it is your SPAM filter or your network configuration that is preventing you from receiving the OFAC broadcast messages. If you believe that may be the case, please discuss the matter with your IT department or network administrator. You may need to have your IT personnel allow e-mails from the following domain to come through the SPAM filter, ""subscriptions.treas.gov;"" in some cases allowing the domain, treas.gov through the filter will also work. If you believe that you have been removed from the subscription list in error you may contact OFAC at O_F_A_C@do.treas.gov or re subscribe here.",How to Receive Notifications About OFAC Updates,,,
+93,12/19/2007,I recently attempted to subscribe to one of OFAC s e-mail list services and I have not yet received my confirmation e-mail. Why is this?,"Failure to receive a confirmation e-mail is typically (though not always) the result of a configuration problem on the user s end. The user should follow these steps to ensure that he or she is using the system properly.
+
+Be patient. For a variety of reasons e-mail sometimes take a little longer than expected to reach a user. If you do not receive a confirmation e-mail within a day of subscribing, proceed to step 2.
+Confirm that you have entered the correct e-mail address and address punctuation. A surprising number of errors have been the result of users accidentally using commas instead of periods.
+Check to see if you have a SPAM filter in place. SPAM filters have a variety of configurations. Some of these filters have been known to erroneously block e-mails originating from OFAC s list servers. OFAC cannot provide technical support for local configuration issues. If you believe a SPAM filter is preventing you from receiving OFAC e-mails, please discuss the matter with your IT department or network administrator. You will need to have your IT personnel allow e-mails from the following domain to come through the SPAM filter ""subscriptions.treas.gov"". Once this is done you may proceed to step 4. If you can confirm that you do not have a SPAM filter in place or any other local configuration problem, please skip step 4 and proceed to step 5.
+If your network or e-mail client s configuration is preventing you from receiving your subscription confirmation e-mail, it is likely that you will not be able to receive e-mail from OFAC s list servers even if OFAC manually adds you to our listserv. These configuration issues must be resolved with your IT department or network administrator before you can proceed.
+If, after you have exhausted all of the above options, you still fail to receive OFAC s broadcast notifications, please call our support hotline at 1-800-540-6322.",How to Receive Notifications About OFAC Updates,,,
+94,,,,,,,
+95,,,,,,,
+96,,,,,,,
+97,04/12/2021,What format options are permitted for submitting license applications pursuant to the Trade Sanctions Reform and Export Enhancement Act of 2000 (TSRA)?,"OFAC permits two format options for submitting TSRA license applications: online or hard-copy, though we highly recommend the use of OFAC’s online application portal.  Applications submitted via mail must be accompanied by a cover letter that includes some essential information:  the purpose of the application and the applicant’s full contact information.  If either the cover letter or the pertinent information is missing, the application is considered incomplete and risks delay or rejection. ","License General
+TSRA",,,
+98,04/12/2021,How should I present my TSRA license application?,"Applicants should clearly enumerate in a table format all pertinent information related to their proposed transactions, including: a) Full names and addresses of all parties involved in the transactions and their roles, including financial institutions and any Iranian broker (identify company principals), purchasing agent (identify company principals), end-user(s) (full contact name), or other participants involved in the purchase of the proposed export items; and b) If applicable, the commodity classification numbers that are associated with the proposed export items. ","License General
+TSRA",,,
+99,,,,,,,
+100,03/16/2015,"If I am submitting multiple TSRA license applications at the same time, should I send them under a single cover letter?","OFAC requires applicants to submit each individual application separately; regardless of if you are completing the online application or sending in a hard copy application through the mail. If an applicant is submitting a hard copy, each application should be in a separate envelope, accompanied by a separate cover letter. Applicants should not submit multiple applications in a single envelope with a single cover letter. If you submit applications in that manner, you may encounter some delay in the processing of your applications. Therefore, in order to prevent such delay, submit one application with one cover letter per envelope. ","License General
+TSRA",,,
+101,06/14/2007,Should I send a sample of the proposed export product as an attachment to my TSRA license application?,"No. OFAC does not require samples of proposed export products to be sent as attachments to any application. OFAC does not need to examine samples of the actual product in making its final determination. Therefore, please do not include any samples with your application.","License General
+TSRA",,,
+102,,,,,,,
+103,,,,,,,
+104,,,,,,,
+105,05/08/2018,"OFAC says it has updated its Specially Designated Nationals (SDN) list, but when I download the appropriate SDN files from the OFAC website, they appear to be out-of-date. Where can I get the latest SDN information?","OFAC has rigorous quality control procedures in place to ensure that all SDN data are current and accurate when they are released (including all of its human-readable list formats [in PDF and text]). All of the SDN information is downloaded and checked by OFAC personnel using the same interface that any member of the public might employ. A number of local issues can impact a user’s ability to download current information; many of these issues are associated with caching done by a user’s browser or by the firewall/security systems that protect a specific enterprise. OFAC can only offer technical support when it comes to OFAC provided data and OFAC managed systems (like the OFAC website or OFAC FTP servers). If you continue to have difficulty downloading the latest SDN information, OFAC recommends that you contact your internal IS/IT support and request their assistance in resolving a caching issue.",Information on List File Formats and Downloads,,,
+106,,,,,,,
+107,,,,,,,
+108,,,,,,,
+109,,,,,,,
+110,,,,,,,
+111,,,,,,,
+112,,,,,,,
+113,,,,,,,
+114,,,,,,,
+115,,,,,,,
+116,,,,,,,
+117,01/13/2017,"Specific to Iran I hold a specific license to sell agricultural goods, medicine, or medical devices to Iran. The general license at section 560.532(a)(4) of the Iranian Transactions and Sanctions Regulations (ITSR) authorizes me to accept a letter of credit issued by an Iranian financial institution whose property and interests in property are blocked solely pursuant to the ITSR (i.e., an Iranian financial institution that is not listed on OFAC’s List of Specially Designated Nationals and Blocked Persons (SDN List)). The general license, however, also states that a U.S. financial institution may not advise, confirm, or otherwise deal in that credit. How am I supposed to know if/when a letter of credit has been issued for my sale and how do I get paid? My bank accounts are all at U.S. financial institutions.",,"TSRA
+E.O.13599",Iran,,
+118,,,,,,,
+119,,,,,,,
+120,,,,,,,
+121,,,,,,,
+122,01/18/2011,What are weak aliases (AKAs)?,,WEAK ALIASES,,,
+123,01/30/2015,Where can I find weak aliases (AKAs)?,,WEAK ALIASES,,,
+124,01/18/2011,Am I required to screen for weak aliases (AKAs)?,,WEAK ALIASES,,,
+125,01/18/2011,Will I be penalized for processing an unauthorized transaction involving a weak alias (AKA)?,,WEAK ALIASES,,,
+126,08/11/2020,I tried to ship a package and it was returned to me because of OFAC sanctions. Why?,"There may have been one or more reasons the package was rejected. For example, was it destined for Cuba and lacking a description of the contents? Was it an unlicensed commercial shipment destined for North Korea? Was it a personal gift destined for an individual in Iran with a stated value exceeding $100? These examples are legitimate reasons for shipping companies to refuse to process such packages, such as packages that do not conform with shipping company guidelines and rules, as well as OFAC and other U.S. government regulations. Not only could you be liable for attempting to send such packages, but the shipping companies also could be liable for their role in processing these. See OFAC s country program webpages for more information on the restrictions on shipments to high-risk jurisdictions, for example the Crimea region of Ukraine, Cuba, Iran, North Korea, or Syria.",Basic information on OFAC and Sanctions,,,
+127,02/07/2011,"I tried to ship a package and it was ""blocked"" by the shipping company ""due to OFAC sanctions."" Why? And how can I get the package unblocked?","Shipping companies are required to ""block"" packages in which a Specially Designated National (""SDN"") or other blocked person has an interest. When a package is required to be ""blocked,"" the shipper must retain the package rather than reject and return it to the sender. Blocking is not required if a general or specific license from OFAC authorizes the shipper to reject or process the package, or if the transaction is otherwise exempted from the prohibitions based on the type or content of the package. To request a license for the package s release, apply online or send a letter with a detailed description of the package s contents and an explanation of the parties involved in the transaction, along with a copy of the package s air waybill or Customs Declaration and Dispatch form, to:
+U.S. Department of the Treasury
+Office of Foreign Assets Control
+Licensing Division
+1500 Pennsylvania Avenue, NW
+Washington, DC 20220
+
+",Basic information on OFAC and Sanctions,,,
+128,,,,,,,
+129,08/04/2011,Can I make a private donation to a charity that is delivering humanitarian assistance in Somalia?,Yes. Please visit USAID’s website for more information about how you can help.,,Somalia,,
+130,08/04/2011,Can my organization provide humanitarian assistance in Somalia?,"Yes, non-governmental organizations may provide humanitarian assistance in Somalia without the need for a license from OFAC. Organizations considering entering Somali territory to conduct assistance operations should be aware that areas of Somalia are extremely unstable and dangerous, and should review the State Department’s Travel Warning for Somalia. Among the most powerful armed groups operating in Somalia is al-Shabaab, a Specially Designated Global Terrorist and a Foreign Terrorist Organization under U.S. law. U.S. persons should exercise caution not to provide funds or material support to this organization or other designated groups.",,Somalia,,
+131,08/04/2011,"What if, in delivering humanitarian assistance, my organization unintentionally provides food or medicine to members of al-Shabaab?","Due to the dangerous and highly unstable environment combined with urgent humanitarian needs in south and central Somalia, some food and/or medicine delivered in these areas may end up in the hands of al-Shabaab members. Such incidental benefits are not a focus for OFAC sanctions enforcement.",,Somalia,,
+132,08/04/2011,"What if, in delivering humanitarian assistance, my organization unintentionally provides cash to members of al-Shabaab?","U.S. persons should be extremely cautious in making cash payments in areas under the control of al-Shabaab. Al-Shabaab has, in the past, demanded “taxes” and “access” payments from assistance organizations. To the extent that such a payment is made unintentionally by an organization in the conduct of its assistance activities, where the organization did not have reason to know that it was dealing with al-Shabaab, that activity would not be a focus for OFAC sanctions enforcement. To the extent that an organization is facing demands for large or repeated payments in al-Shabaab-controlled areas, it should consult with OFAC prior to proceeding with its operations.",,Somalia,,
+133,08/04/2011,I have heard that certain U.S. humanitarian assistance organizations are exempted from the prohibition on making certain cash payments to al-Shabaab. Is that correct?,"Under the current extreme circumstances on the ground, the Department of State and USAID and their contractors and grantees are authorized to engage in certain transactions in the conduct of their official assistance activities in Somalia, under rigorous controls aimed at preventing diversion of assistance or cash payments to designated parties.
+
+Humanitarian assistance organizations that wish to apply for a contract or grant with the State Department or USAID should visit USAID’s website.",,Somalia,,
+134,08/04/2011,I have family members or friends in Somalia and would like to send remittances to them. Can I do that without violating OFAC sanctions?,"Yes, you can send remittances to Somalia, as long as the transactions do not involve parties listed on OFAC’s Specially Designated Nationals and Blocked Persons List.
+
+For additional information on OFAC’s Somalia-related sanctions programs, visit here. To request additional information from OFAC, please call the OFAC hotline at (800) 540-6322 or (202) 622-2490.",,Somalia,,
+135,,,,,,,
+136,,,,,,,
+137,,,,,,,
+138,,,,,,,
+139,,,,,,,
+140,,,,,,,
+141,,,,,,,
+142,,,,,,,
+143,,,,,,,
+144,,,,,,,
+145,,,,,,,
+146,,,,,,,
+147,,,,,,,
+148,,,,,,,
+149,,,,,,,
+150,,,,,,,
+151,,,,,,,
+152,,,,,,,
+153,,,,,,,
+154,,,,,,,
+155,,,,,,,
+156,,,,,,,
+157,,,,,,,
+158,,,,,,,
+159,,,,,,,
+160,,,,,,,
+161,2/6/2012,"If all property and interests in property of the Government of Iran, including the Central Bank of Iran, and of all Iranian financial institutions are blocked, can I conduct transactions involving the Government of Iran that have been previously authorized by OFAC?","Generally yes. Under new General License A, almost all transactions that are authorized under existing general licenses issued pursuant to the Iranian Transactions Regulations (ITR) or under existing OFAC specific licenses will continue to be authorized under the authority of E.O. 13599. However, transactions previously authorized under one existing ITR general license are not authorized pursuant to E.O. 13599. Specifically, the closing of accounts of the Government of Iran or an Iranian financial institution and the lump sum transfer of the balances to an account outside of the United States, which is authorized by sections 560.517(a)(3) & (b)(2) of the ITR, is not authorized by General License A, and, therefore, those transactions are prohibited by E.O. 13599 and the accounts must be blocked. In addition, General License A does not authorize any payments from blocked funds or debits to blocked accounts, with a limited exception for payments from funds or debits to accounts blocked under the Iranian Assets Control Regulations (the hostage crisis blocking program that began in 1979) that are authorized by specific licenses issued by OFAC.
+
+New General License B authorizes U.S. depository institutions and U.S. registered brokers or dealers in securities to process noncommercial, personal remittances, to or from Iran, or for or on behalf of individuals ordinarily resident in Iran who are not included in the term “Government of Iran”, provided that such funds transactions are not made by, to, or through a financial institution blocked pursuant to the Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544 (the “WMDPSR”), or the Global Terrorism Sanctions Regulations, 31 C.F.R. part 594 (the “GTSR”), or a person whose property and interests in property are blocked pursuant to any other part of 31 C.F.R. chapter V, or any Executive order, except an Iranian financial institution whose property and interests in property are blocked solely pursuant to E.O. 13599.
+
+Transactions not previously authorized by OFAC that involve property or interests in property of the Government of Iran, including the Central Bank of Iran, or of Iranian financial institutions must be blocked.","ITR
+E.O. 13599
+Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544",,,
+162,,,,,,,
+163,,,,,,,
+164,,,,,,,
+165,,,,,,,
+166,,,,,,,
+167,,,,,,,
+168,,,,,,,
+169,,,,,,,
+170,,,,,,,
+171,,,,,,,
+172,,,,,,,
+173,,,,,,,
+174,,,,,,,
+175,,,,,,,
+176,,,,,,,
+177,,,,,,,
+178,,,,,,,
+179,,,,,,,
+180,,,,,,,
+181,,,,,,,
+182,,,,,,,
+183,,,,,,,
+184,,,,,,,
+185,,,,,,,
+186,,,,,,,
+187,,,,,,,
+188,,,,,,,
+189,,,,,,,
+190,,,,,,,
+191,,,,,,,
+192,,,,,,,
+193,,,,,,,
+194,,,,,,,
+195,,,,,,,
+196,,,,,,,
+197,,,,,,,
+198,,,,,,,
+199,,,,,,,
+200,,,,,,,
+201,,,,,,,
+202,,,,,,,
+203,,,,,,,
+204,,,,,,,
+205,,,,,,,
+206,,,,,,,
+207,,,,,,,
+208,,,,,,,
+209,,,,,,,
+210,,,,,,,
+211,,,,,,,
+212,,,,,,,
+213,,,,,,,
+214,,,,,,,
+215,,,,,,,
+216,,,,,,,
+217,,,,,,,
+218,,,,,,,
+219,,,,,,,
+220,,,,,,,
+221,,,,,,,
+222,,,,,,,
+223,,,,,,,
+224,,,,,,,
+225,,,,,,,
+226,,,,,,,
+227,,,,,,,
+228,,,,,,,
+229,,,,,,,
+230,,,,,,,
+231,,,,,,,
+232,,,,,,,
+233,,,,,,,
+234,,,,,,,
+235,,,,,,,
+236,,,,,,,
+237,,,,,,,
+238,,,,,,,
+239,,,,,,,
+240,,,,,,,
+241,,,,,,,
+242,,,,,,,
+243,,,,,,,
+244,,,,,,,
+245,,,,,,,
+246,,,,,,,
+247,,,,,,,
+248,,,,,,,
+249,,,,,,,
+250,,,,,,,
+251,,,,,,,
+252,,,,,,,
+253,,,,,,,
+254,,,,,,,
+255,,,,,,,
+256,,,,,,,
+257,,,,,,,
+258,,,,,,,
+259,,,,,,,
+260,,,,,,,
+261,,,,,,,
+262,,,,,,,
+263,,,,,,,
+264,,,,,,,
+265,,,,,,,
+266,,,,,,,
+267,,,,,,,
+268,,,,,,,
+269,,,,,,,
+270,,,,,,,
+271,,,,,,,
+272,,,,,,,
+273,,,,,,,
+274,,,,,,,
+275,,,,,,,
+276,,,,,,,
+277,,,,,,,
+278,,,,,,,
+279,,,,,,,
+280,,,,,,,
+281,,,,,,,
+282,,,,,,,
+283,,,,,,,
+284,,,,,,,
+285,,,,,,,
+286,,,,,,,
+287,,,,,,,
+288,,,,,,,
+289,8/6/2018,"How will the following Iran Freedom and Counter-Proliferation Act (IFCA) terms be interpreted: “Iran,” “knowingly,” “significant,” and “transfer”?","As a general matter, we intend to rely, where applicable, on definitions of terms previously included in Treasury regulations.
+
+“Iran”
+
+The Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR) define “Iran” as the Government of Iran and the territory of Iran and any other territory or marine area, including the exclusive economic zone and continental shelf, over which the Government of Iran claims sovereignty, sovereign rights, or jurisdiction, provided that the Government of Iran exercises partial or total de facto control over the area or derives a benefit from economic activity in the area pursuant to international arrangements. (31 CFR § 561.329)
+
+“knowingly”
+
+The IFSR define “knowingly” with respect to conduct, a circumstance, or a result, to mean that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result. (31 CFR § 561.314)
+
+“significant”
+
+As a general matter, in determining for purposes of IFCA and relevant Executive orders whether transactions, financial transactions, or financial services are significant, the Department of the Treasury will rely on the interpretation set out in §561.404 of the IFSR. The IFSR provide that the Department of the Treasury may consider the totality of the facts and circumstances set forth a list of broad factors that can play a role in the determination whether transactions, financial services, and financial transactions are significant, including: (a) the size, number, and frequency of the transactions, financial services, or financial transactions; (b) the nature of the transactions, financial services, or financial transactions, including their type, complexity, and commercial purpose; (c) the level of awareness of management and whether the transactions are part of a pattern of conduct; (d) the nexus of the transactions, financial services, and financial transactions and blocked persons; (e) the impact of the transactions, financial services, and financial transactions on statutory objectives; (f) whether the transactions, financial services, and financial transactions involve deceptive practices; (g) whether the transactions solely involve the passive holdings of Central Bank of Iran (CBI) reserves or repayment by the CBI of official development assistance or the transfer of funds required as a condition of Iran’s membership in an international financial institution; and (h) other relevant factors that the Secretary of the Treasury deems relevant. We anticipate adopting a similar approach to interpreting the term “significant” as it applies to goods or services. (31 C.F.R. §561.404) 
+
+“transfer”
+
+We anticipate that regulations to be promulgated will define “transfer” to include import, transshipment, export, or reexport, whether direct or indirect. ","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+290,6/3/2013,"Are payments or deliveries that are made on or after July 1, 2013, for contracts that existed prior to July 1, 2013, exempted from IFCA provisions?","There is no general exception for payments, sales, deliveries, or transfers arising out of contracts entered into prior to July 1, 2013, on or after which date certain activities become sanctionable under IFCA . The assessment of whether such payments are significant or result in the transfer of significant goods or services or significant financial support will be done on a case-by-case basis in line with the criteria discussed above.","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+291,,,,,,,
+292,8/6/2018,What are the implications of IFCA on the provision of humanitarian goods to the people of Iran?,"IFCA generally excepts from sanctions transactions for the sale of agricultural commodities, food, medicine, or medical devices to Iran, as set out in more detail in Q&As 297 and 304.","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+293,8/6/2018,"What will the energy, shipping, and shipbuilding sectors of Iran mean for the purposes of IFCA?","We anticipate that regulations to be promulgated will define energy sector of Iran to include activities involving the exploration, extraction, production, refinement, or liquefaction of petroleum, natural gas, or petroleum products in Iran. (See also discussion of activities involving natural gas in Q&A 297.)
+
+We anticipate that regulations to be promulgated will define shipping sector of Iran to include activities involving the transportation of goods by seagoing vessels, including oil tankers and cargo vessels, flying the flag of the Islamic Republic of Iran, or owned, controlled, chartered, or operated directly or indirectly by the Government of Iran.
+
+We anticipate that regulations to be promulgated will define shipbuilding sector of Iran to include activities involving the construction of seagoing vessels, including oil tankers and cargo vessels, in Iran. ","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+294,6/3/2013,"How will I know if someone is part of Iran s energy, shipping, or shipbuilding sectors or is a port operator in Iran?","Persons determined to be part of Iran s energy, shipping, or shipbuilding sectors, or a port operator in Iran for purposes of IFCA section 1244(c) will be identified as such on the SDN List. Knowingly providing certain significant support to persons determined to be part of Iran s energy, shipping, or shipbuilding sectors, or a port operator in Iran will have exposure to sanctions, unless the transaction is excepted (see also Q&A 297).","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+295,6/3/2013,"What are goods or services used in connection with Iran s energy, shipping, or shipbuilding sectors for purposes of IFCA section 1244(d)(3)?","We anticipate that regulations to be promulgated will define goods and services used in connection with Iran s energy, shipping and shipbuilding sectors to include:
+
+a. Energy Sector: In the case of Iran s energy sector, goods or services that contribute to,
+
+Iran s ability to develop its domestic petroleum resources;
+
+The maintenance or expansion of Iran s domestic production of petroleum products; and
+
+Iran s ability to import or export petroleum or petroleum products.
+
+b. Shipping Sector: In the case of Iran s shipping sector,
+
+The provision of crude and product tankers to Iran;
+
+The provision of registry, flagging, or classification services of any kind;
+
+The supervision of and participation in the repair of ships and their parts;
+
+The inspection, testing, and certification of marine equipment materials and components;
+
+The carrying out of surveys, inspections, audits and visits, and the issuance, renewal or endorsement of the relevant certificates and documents of compliance, as they relate to ships and shipping; and
+
+Any other goods or services relating to the maintenance, supply, bunkering, and docking of vessels flying the flag of the Islamic Republic of Iran, or owned, controlled, chartered, or operated directly or indirectly by, or for or on behalf of the Government of Iran (GOI) or an Iranian person.
+
+c. Shipbuilding Sector: In the case of Iran s shipbuilding sector,
+
+The building and refit of vessels;
+
+The provision or refit of items such as (i) steam turbines and their parts for marine propulsions, (ii) marine propulsion engines and parts used solely or principally with them, (iii) other gas turbines for marine propulsion, (iv) ship or boat propellers and blades, and (v) direction finding compasses and other navigational instruments and appliances solely for the maritime industry;
+
+Other goods used in connection with building and propulsion of vessels; and
+
+Technical assistance and training relating to, and financing of, the building, maintenance or re-fitting of vessels.
+
+Sections 1244(d)(1) and (2) of IFCA make sanctionable certain transactions for the sale, supply, or transfer to or from Iran of such goods and services if they are significant goods or services used in connection with Iran s energy, shipping, or shipbuilding sectors. (See Q&A 289 above for an interpretation of significant. ) The provision of goods or services identified above could be sanctionable regardless of whether any person involved in the transaction has been determined to be part of Iran s energy, shipping, or shipbuilding sectors. ","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+296,9/5/2019,Will the provision of bunkering services to a non-Iranian vessel carrying non-sanctionable goods to or from Iran be subject to sanctions?,"If a non-Iranian vessel is transporting non-sanctionable goods to or from Iran, the bunkering of that non-Iranian vessel in a country other than Iran and related payments for these bunkering services will not be subject to sanctions, only if (1) the transaction either does not involve U.S. persons (including U.S. financial institutions) or U.S.-owned or -controlled foreign entities, or the transaction is exempt from OFAC regulation or authorized by OFAC if it does involve U.S. persons (including U.S. financial institutions) or U.S.-owned or -controlled foreign entities, and (2) the transaction does not involve persons on OFAC s List of Specially Designated Nationals and Blocked Persons (SDN List) that have been designated in connection with Iran s support for international terrorism or proliferation of weapons of mass destruction, including designated Iranian financial institutions or the Islamic Revolutionary Guard Corps (IRGC), or activity that is subject to other sanctions authorities. ","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+297,8/6/2018,Are there any exceptions to the sanctions provisions of section 1244 of IFCA?,"The following transactions are excepted from the provisions of section 1244 of IFCA.
+
+a. Transactions for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran.
+
+b. The export of petroleum or petroleum products from Iran to a country with a significant reduction exception under section 1245(d)(4)(D)(i) of the National Defense Authorization Act for Fiscal Year 2012 (NDAA 2012).
+
+c. A significant financial transaction conducted or facilitated by a foreign financial institution (FFI), provided that a significant reduction exception under 1245(d)(4)(D)(i) of NDAA 2012 applies to the country with primary jurisdiction over the FFI and the financial transaction is for trade in goods or services (i) between Iran and the country with primary jurisdiction over the FFI and (ii) not otherwise subject to sanctions under the law of the United States, and any funds owed to Iran as a result of the trade are credited to an account located in the country with primary jurisdiction over the FFI. We anticipate the implementation of these trade requirements to be similar to the trade requirements set forth in the Iranian Financial Sanctions Regulations (IFSR), in particular 31 CFR §561.203(j) and 31 CFR §561.203(k).
+
+d. The sale, supply, or transfer of natural gas to or from Iran. IFCA section 1244, however, does set out sanctions that may apply to FFIs that conduct or facilitate a transaction for the sale, supply, or transfer of natural gas to or from Iran unless the financial transaction is for trade in goods or services (i) between Iran and the country with primary jurisdiction over the FFI and (ii) not otherwise subject to sanctions under the law of the United States, and any funds owed to Iran as a result of the trade are credited to an account located in the country with primary jurisdiction over the FFI. We anticipate the implementation of these trade requirements to be similar to the trade requirements set forth in the IFSR, in particular 31 CFR §561.203(j) and 31 CFR §561.203(k).
+
+e. Certain activities relating to the pipeline project to supply natural gas from the Shah Deniz gas field in Azerbaijan to Europe and Turkey.","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)",Iran,,
+298,6/3/2013,"For purposes of IFCA, what materials are considered graphite, raw or semi-finished metals?","For purposes of IFCA, we anticipate that regulations to be promulgated will define graphite, raw or semi-finished metals described in section 1245(d) of IFCA to include steels; aluminum metal and its alloys; base metals of single or complex borides of titanium; beryllium metal and its alloys; boron metal and its alloys; cobalt metal and its alloys; copper infiltrated tungsten metal; copper-beryllium metal; germanium metal and its alloys; graphites; hastelloy; inconel; magnesium metal and its alloys; molybdenum metal and its alloys; neptunium-237 metal and its alloys; nickel metal and its alloys; nickel aluminide metals; niobium metal and its alloys; niobium-titanium filaments; plutonium metal and its alloys; porous nickel metal; silver infiltrated tungsten metal; tantalum metal and its alloys; tellurium metal and its alloys; titanium aluminide metals; titanium metal and its alloys; tungsten metal, tungsten carbide metal, and their alloys; uranium titanium alloy metals; and zirconium metal and its alloys and compounds. ",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+299,6/3/2013,"For purposes of IFCA, what are considered precious metals?","For purposes of IFCA, we anticipate that regulations to be promulgated will define the term precious metals to include silver (including silver plated with gold or platinum, unwrought or in semi-manufactured forms, or in powder form); gold (including gold plated with platinum, unwrought or in semi-manufactured forms, or in powder form); base metals or silver, clad with gold, not further worked than semi-manufactured; platinum, unwrought or in semi-manufactured forms, or in powder form; iridium; osmium; palladium; rhodium; ruthenium; base metals, silver or gold, clad with platinum, not further worked than semi-manufactured; waste and scrap of precious metal or of metal clad with precious metals, other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal. ",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+300,8/6/2018,"For purposes of sanctions under section 1245, how will I know which sectors are controlled by Iran s Islamic Revolutionary Guard Corps?","Pursuant to delegated authority, the Secretary of State issues periodic reports pursuant to section 1245(e) of IFCA with respect to which sectors of the Iranian economy are controlled directly or indirectly by Iran s Islamic Revolutionary Guard Corps (IRGC). Given the opaque business environment in Iran and the significant role that the IRGC plays in the Iranian economy, OFAC recommends that a person considering business in Iran or with Iranian persons conduct due diligence sufficient to ensure that it is not knowingly engaging in transactions with the IRGC, or its officials, agents, or affiliates.",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+301,8/6/2018,How will the determination be made as to whether materials are used in a manner that would make them subject to sanctions under section 1245 of IFCA?,"A FFI, prior to conducting or facilitating a significant financial transaction for the sale, supply, or transfer to or from Iran of the materials listed in 1245(d) as described in part in Q&A 298 will need to undertake due diligence to ensure that the transaction does not involve the materials being sold, supplied, or transferred, directly or indirectly, to or from Iran for sanctionable uses under section 1245.  Pursuant to delegated authority, the Secretary of State issues periodic reports pursuant to section 1245(e) of IFCA, which contains determinations on which materials identified in section 1245(d) are used by Iran as a medium for swap or barter, are listed as assets on the national balance sheet of Iran, or are used in connection with the nuclear, military, or ballistic missile programs of Iran.",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+302,6/3/2013,Are there any exceptions to section 1245 of IFCA?,"A person will not be subject to sanctions under section 1245 of IFCA if a determination is made by the Department of the Treasury or the Department of State, as appropriate, that the person has established and enforced official policies, procedures, and controls to ensure that the person does not sell, supply, or transfer to or from Iran, or facilitate or conduct a significant financial transaction to sell supply, or transfer to or from Iran, materials listed in section 1245 as sanctioned under section 1245. The Department of the Treasury or the Department of State, as appropriate, will make this determination on a case by case basis as part of an investigation or enforcement action by the relevant Department. ",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+303,11/27/2019,"Which insurance, reinsurance, or underwriting activities are potentially subject to sanctions under IFCA's section 1246(a)(1)?","A number of insurance activities are subject to sanctions under IFCA, including knowingly providing insurance, reinsurance, or underwriting services to or for Iranian persons on the SDN List to or for any person designated in connection with Iran s support for international terrorism or WMD proliferation, or for activities with respect to Iran for which sanctions have been imposed (e.g., knowingly engaging in a significant transaction for the purchase, acquisition, sale, transport, or marketing of petroleum or petroleum products from Iran). However, the provision of insurance, reinsurance, or underwriting services to non-Iranian persons on the SDN List is generally not sanctionable under section 1246(a)(1) of IFCA if the provision of insurance, reinsurance or underwriting services is not to or for an Iranian person on the SDN List, to or for any person designated in connection with Iran s support for international terrorism or WMD proliferation, or for any activity with respect to Iran for which sanctions have been imposed.",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+304,6/3/2013,"Are there exceptions to insuring, reinsuring, or underwriting sanctioned activities?","Yes. IFCA includes the following exceptions to insuring, reinsuring, or underwriting sanctioned activities.
+
+a. Transactions for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran can be insured, reinsured, or underwritten.
+b. A person that provides insurance, reinsurance, or underwriting services to sanctioned activity, if a determination is made by the Department of the Treasury or the Department of State, as appropriate, that the person has established and enforced official policies, procedures, and controls to ensure that the person does not underwrite or enter into a contract to provide insurance or reinsurance for activities targeted under section 1246 of IFCA. The Department of the Treasury or the Department of State, as appropriate, will make this determination on a case by case basis as part of an investigation or enforcement action by the relevant Department.",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+305,,,,,,,
+306,,,,,,,
+307,,,,,,,
+308,,,,,,,
+309,,,,,,,
+310,,,,,,,
+311,,,,,,,
+312,,,,,,,
+313,6/3/2013,What is the Iran Freedom and Counter-Proliferation Act of 2012 (IFCA)?,"IFCA was signed into law on January 2, 2013, as a part of the National Defense Authorization Act for Fiscal Year 2013, and provides for several new sanctions related to Iran. IFCA authorizes broad sanctions on: certain activities related to Iran s energy, shipping, and shipbuilding sectors; the sale, supply, or transfer to or from Iran of precious and certain other metals, graphite, coal, and industrial software; the provision of underwriting services, insurance, or reinsurance to activities and persons targeted by U.S. sanctions against Iran; financial transactions involving sanctioned Iranian individuals and entities; and persons involved in the diversion of goods intended for the Iranian people. Most of the IFCA provisions target conduct occurring on or after July 1, 2013.
+
+The U.S. Department of the Treasury will be issuing regulations to implement certain provisions in IFCA. In addition, the U.S. Department of State expects to adopt an interpretation of IFCA similar to that set forth below.",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+314,,,,,,,
+315,8/6/2018,Will routine payments or fees be subject to sanctions if they are made to a person determined to be a port operator in Iran and if the vessel is carrying non-sanctioned goods?,"Any company involved in loading or unloading cargo in Iran should exercise great caution to avoid engaging in transactions with entities designated by the United States, including the Tidewater Middle East Co. which was designated for its involvement in Iran s proliferation of weapons of mass destruction. However, to the extent that a shipping company transacts with port operators in Iran that have been identified as such under IFCA but not otherwise designated, and as long as such payments are limited strictly to routine fees including port dues, docking fees, or cargo handling fees, paid for the loading and unloading of non-sanctioned goods at Iranian ports, we anticipate that such transactions would not be considered significant transactions for the purposes of IFCA. Non-routine and/or large payments or fees that materially exceed standard industry rates could expose a person to sanctions. Furthermore, providing any port operator in Iran with any significant financial, material, technological, or other support could expose a person to sanctions.",Iran Freedom and Counter-Proliferation Act of 2012 (IFCA),Iran,,
+316,,,,,,,
+317,,,,,,,
+318,,,,,,,
+319,,,,,,,
+320,,,,,,,
+321,,,,,,,
+322,,,,,,,
+323,,,,,,,
+324,,,,,,,
+325,,,,,,,
+326,,,,,,,
+327,,,,,,,
+328,,,,,,,
+329,,,,,,,
+330,,,,,,,
+331,,,,,,,
+332,,,,,,,
+333,,,,,,,
+334,,,,,,,
+335,,,,,,,
+336,,,,,,,
+337,2/7/2014,What are key changes made by amended General License D-1?,"First, GL D-1 expands the authorization in GL D to permit the exportation, reexportation, or provision, directly or indirectly, to Iran of certain personal communications software, hardware, and related services subject to Commerce's Export Administration Regulations, 15 C.F.R. parts 730 through 774 ( EAR ) (rather than just the exportation or reexportation from the United States or by a U.S. person of such software, hardware, and services). See GL D-1, paragraphs (a)(2)(i) & (a)(3). For purposes of GL D-1, the term provision could include, for example, an in-country transfer of covered software or hardware. The general license now authorizes, for example, a non-U.S. person located outside the United States to export certain hardware and software subject to the EAR to Iran. See FAQ #341.
+
+Second, GL D-1 adds new authorizations for the exportation, reexportation, or provision, directly or indirectly, by a U.S. person located outside the United States to Iran of certain software and hardware not subject to the EAR. See GL D-1, paragraphs (a)(2)(ii) & (a)(3). The general license now authorizes, for example, a U.S. company to export to Iran, from a location outside the United States, certain hardware or software that is not subject to the EAR (including foreign-origin hardware or software containing less than a de minimis amount of U.S. controlled content). See FAQ #342.
+
+Third, a new Note has been added to paragraphs (a)(2) and (a)(3) clarifying that the authorization in those paragraphs includes the exportation, reexportation, or provision, directly or indirectly, of the authorized items by an individual leaving the United States for Iran. GL D-1 also adds a new authorization for the importation by an individual into the United States of certain hardware and software previously exported by the individual to Iran pursuant to other provisions of GL D-1 or 31 C.F.R. § 560.540. See GL D-1, paragraph (a)(5). The general license now authorizes, for example, an individual to carry a smartphone that falls within the scope of the GL D-1 authorization while traveling to and from Iran. See FAQ #343.
+
+Finally, to further ensure that the sanctions on Iran do not have an unintended chilling effect on the willingness of companies to make available certain publicly available, no cost personal communications tools to persons in that country, GL D-1 adds a new authorization related to the potential recipients of certain publicly available, no cost services and software. See GL D-1, paragraph (a)(6).
+
+Notwithstanding these changes, nothing in this general license relieves an exporter from compliance with the export license requirements of another Federal agency. ","GENERAL LICENSE D-1
+31 C.F.R. Fart 560",Iran,,
+338,,,,,,,
+339,,,,,,,
+340,,,,,,,
+341,,,,,,,
+342,,,,,,,
+343,,,,,,,
+344,,,,,,,
+345,,,,,,,
+346,,,,,,,
+347,,,,,,,
+348,,,,,,,
+349,,,,,,,
+350,,,,,,,
+351,,,,,,,
+352,,,,,,,
+353,,,,,,,
+354,,,,,,,
+355,,,,,,,
+356,,,,,,,
+357,,,,,,,
+358,,,,,,,
+359,,,,,,,
+360,,,,,,,
+361,,,,,,,
+362,,,,,,,
+363,,,,,,,
+364,,,,,,,
+365,,,,,,,
+366,,,,,,,
+367,,,,,,,
+368,,,,,,,
+369,,,,,,,
+370,,,,,,,
+371,,,,,,,
+372,,,,,,,
+373,,,,,,,
+374,,,,,,,
+375,,,,,,,
+376,,,,,,,
+377,,,,,,,
+378,,,,,,,
+379,,,,,,,
+380,,,,,,,
+381,,,,,,,
+382,,,,,,,
+383,,,,,,,
+384,,,,,,,
+385,,,,,,,
+386,,,,,,,
+387,,,,,,,
+388,,,,,,,
+389,,,,,,,
+390,,,,,,,
+391,,,,,,,
+392,,,,,,,
+393,,,,,,,
+394,,,,,,,
+395,,,,,,,
+396,,,,,,,
+397,,,,,,,
+398,08/11/2020,"Does OFAC consider entities over which one or more blocked persons exercise control, but of which they do not own 50 percent or more in the aggregate, to be blocked pursuant to OFAC s 50 Percent Rule?","No. OFAC s 50 Percent Rule  speaks only to ownership and not to control. An entity that is controlled (but not owned 50 percent or more) by one or more blocked persons is not considered automatically blocked pursuant to OFAC s 50 Percent Rule. OFAC may, however, designate the entity under an available sanctions criteria or otherwise identify the entity as blocked property if determined to be controlled by one or more designated persons and add the entity to OFAC s List of Specially Designated Nationals and Blocked Persons (SDN List). 
+
+OFAC urges caution when considering a transaction with an entity that is not a blocked person (a non-blocked entity) in which one or more blocked persons have a significant ownership interest that is less than 50 percent or which one or more blocked persons may control by means other than a majority ownership interest.  Such non-blocked entities may become the subject of future designations or enforcement actions by OFAC.  In addition, persons should be cautious in dealing with such a non-blocked entity to ensure that they are not, for example, dealing with a blocked person representing the non-blocked entity, such as entering into a contract that is signed by a blocked person.  Please also note that some sanctions programs (e.g., the Crimea region of Ukraine, Cuba, Iran, North Korea, Syria, and Venezuela) block certain persons without an OFAC designation; these blockings are based on criteria separate from OFAC s 50 Percent Rule, such as the blocking of persons that meet the definition of a blocked government. ",Entities Owned by Persons Whose Property and Interest in Property are Blocked (50% Rule),,,
+399,08/13/2014,Does OFAC aggregate ownership stakes of all blocked persons when determining whether an entity is blocked pursuant to OFAC s 50 Percent Rule?,"Yes. On August 13, 2014, OFAC indicated in its revised 50 Percent Rule guidance that OFAC's 50 Percent Rule applies to entities owned 50 percent or more in the aggregate by one or more blocked persons. Accordingly, if Blocked Person X owns 25 percent of Entity A, and Blocked Person Y owns another 25 percent of Entity A, Entity A is considered to be blocked. This is so because Entity A is owned 50 percent or more in the aggregate by one or more blocked persons. For the purpose of calculating aggregate ownership, the ownership interests of persons blocked under different OFAC sanctions programs are aggregated.",Entities Owned by Persons Whose Property and Interest in Property are Blocked (50% Rule),,,
+400,08/13/2014,"As explained in FAQ 398, OFAC s 50 Percent Rule does not apply if one or more individuals who are blocked persons (blocked individuals) control, but do not own 50 percent or more of, an entity. Can persons engage in negotiations, enter into contracts, or process transactions involving a blocked individual when that blocked individual is acting on behalf of the non-blocked entity that he or she controls (e.g., a blocked individual is an executive of a non-blocked entity and is signing a contract on behalf of the non-blocked entity)?","No. OFAC sanctions generally prohibit transactions involving, directly or indirectly, a blocked person, absent authorization from OFAC, even if the blocked person is acting on behalf of a non-blocked entity. Therefore, U.S. persons should be careful when conducting business with non-blocked entities in which blocked individuals are involved; U.S. persons may not, for example, enter into contracts that are signed by a blocked individual.",Entities Owned by Persons Whose Property and Interest in Property are Blocked (50% Rule),,,
+401,08/13/2014,OFAC s 50 Percent Rule states that the property and interests in property of entities directly or indirectly owned 50 percent or more in the aggregate by one or more blocked persons are considered blocked. How does OFAC interpret indirect ownership as it relates to certain complex ownership structures?,"""Indirectly,"" as used in OFAC s 50 Percent Rule, refers to one or more blocked persons' ownership of shares of an entity through another entity or entities that are 50 percent or more owned in the aggregate by the blocked person(s). OFAC urges persons considering a potential transaction to conduct appropriate due diligence on entities that are party to or involved with the transaction or with which account relationships are maintained in order to determine relevant ownership stakes. Please see FAQ 116 for additional guidance on due diligence standards for intermediary parties to wire transfers. Please refer to the examples below for further guidance on determining whether an entity is blocked pursuant to OFAC's 50 Percent Rule.
+
+Example 1: Blocked Person X owns 50 percent of Entity A, and Entity A owns 50 percent of Entity B. Entity B is considered to be blocked. This is so because Blocked Person X owns, indirectly, 50% of Entity B. In addition, Blocked Person X's 50 percent ownership of Entity A makes Entity A a blocked person. Entity A's 50 percent ownership of Entity B in turn makes Entity B a blocked person.
+
+Example 2: Blocked Person X owns 50 percent of Entity A and 50 percent of Entity B. Entities A and B each own 25 percent of Entity C. Entity C is considered to be blocked. This is so because, through its 50 percent ownership of Entity A, Blocked Person X is considered to indirectly own 25 percent of Entity C; and through its 50 percent ownership of Entity B, Blocked Person X is considered to indirectly own another 25 percent of Entity C. When Blocked Person X's indirect ownership of Entity C through Entity A and Entity B is totaled, it equals 50 percent. Entity C is also considered to be blocked due to the 50 percent aggregate ownership by Entities A and B, which are themselves blocked entities due to Blocked Person X's 50 percent ownership of each.
+
+Example 3: Blocked Person X owns 50 percent of Entity A and 10 percent of Entity B. Entity A also owns 40 percent of Entity B. Entity B is considered to be blocked. This is so because, through its 50 percent ownership of Entity A, Blocked Person X is considered to indirectly own 40 percent of Entity B. When added to Blocked Person X's direct 10 percent ownership of Entity B, Blocked Person X's total ownership (direct and indirect) of Entity B is 50 percent. Entity B is also blocked due to the 50 percent aggregate ownership by Blocked Person X and Entity A, which are themselves both blocked persons.
+
+Example 4: Blocked Person X owns 50 percent of Entity A and 25 percent of Entity B. Entities A and B each own 25 percent of Entity C. Entity C is not considered to be blocked. This is so because, even though Blocked Person X is considered to indirectly own 25 percent of Entity C through its 50 percent ownership of Entity A, Entity B is not 50 percent or more owned by Blocked Person X, and therefore Blocked Person X is not considered to indirectly own any of Entity C through its part ownership of Entity B. Blocked Person X's total ownership (direct and indirect) of Entity C therefore does not equal or exceed 50 percent. Entity A is itself a blocked person, but its ownership of Entity C also does not equal or exceed 50 percent.
+
+Example 5: Blocked Person X owns 25 percent of Entity A and 25 percent of Entity B. Entities A and B each own 50 percent of Entity C. Entity C is not considered to be blocked. This is so because Blocked Person X's 25 percent ownership of each of Entity A and Entity B falls short of 50 percent. Accordingly, neither Entity A nor Entity B is blocked and Blocked Person X is not considered to indirectly own any of Entity C through its part ownership of Entities A or B.",Entities Owned by Persons Whose Property and Interest in Property are Blocked (50% Rule),,,
+402,08/13/2014,"How does OFAC s 50 Percent Rule apply to situations in which one or more blocked persons owned 50 percent or more of an entity, but subsequent to their designations one or more blocked persons divest their ownership stakes in the entity in a transaction that occurs entirely outside of U.S. jurisdiction such that the resulting combined ownership of the entity by blocked persons is less than 50 percent? How should a person treat property or interests in property of such an entity (1) in future transactions (post-divestment) and (2) that was properly blocked while the entity was owned 50 percent or more by one or more blocked persons?","According to OFAC's 50 Percent Rule, entities are considered blocked if they are owned 50 percent or more (directly or indirectly) in the aggregate by one or more blocked persons. If one or more blocked persons divest their ownership stake such that the resulting combined ownership by blocked persons is less than 50 percent, the entity is no longer considered automatically to be a blocked entity. Any such divestment transactions must occur entirely outside of U.S. jurisdiction and must not involve U.S. persons, as any blocked property or interests in property that come into the possession or control of a U.S. person must be blocked and reported to OFAC, and OFAC does not recognize any subsequent unlicensed transfers, through changes in ownership or otherwise, of such property.
+
+Entities in which the aggregate of one or more blocked persons' ownership stakes has fallen below 50 percent are not considered blocked pursuant to OFAC's 50 Percent Rule, and therefore property of such entities that comes into the United States or the possession or control of a U.S. person while the aggregate of one or more blocked persons' ownership stakes is below 50 percent is not considered blocked by OFAC's 50 Percent Rule. OFAC urges caution when dealing with or processing transactions involving such entities, as those entities may become the subject of future designations or enforcement actions by OFAC. Sufficient due diligence should be conducted to determine that any purported divestment in fact occurred and that the transfer of ownership interests was not merely a sham transaction.
+
+When the property of an entity owned 50 percent or more by a single blocked person comes within the United States or within the possession or control of a U.S. person and is blocked, the property remains blocked unless and until (1) OFAC authorizes the unblocking of or other dealings in the property or (2) OFAC removes the blocked person from the SDN List. The property remains blocked even if the blocked person's ownership of the entity subsequently falls below 50 percent. This is so because the blocked person is considered to have an interest in the blocked property, and OFAC does not recognize the unlicensed transfer of the blocked person s interest after the property becomes blocked in the United States or in the possession or control of a U.S. person. Persons holding such property may request authorization from OFAC's Licensing Division to transfer or otherwise deal in that property (the electronic application can be found on OFAC's website here), and OFAC will evaluate such requests on a case-by-case basis.
+
+Similarly, when the property of an entity owned 50 percent or more in the aggregate by more than one blocked person comes within the United States or in the possession or control of a U.S. person and is blocked, the property remains blocked unless and until (1) OFAC authorizes the unblocking of or other dealings in the property or (2) OFAC removes from the SDN List one or more of the blocked persons such that the aggregate ownership by blocked persons falls below 50 percent. If the aggregate ownership of the entity by blocked persons falls below 50 percent not due to SDN List removal actions by OFAC but instead due to actions by one or more of the blocked persons, including the entity itself, the property remains blocked. This is so because the group of blocked persons is considered to have an interest in the blocked property, and OFAC does not recognize the unlicensed transfer of any of the blocked persons' interests after the property becomes blocked in the United States or in the possession or control of a U.S. person. Persons holding such property may request authorization from OFAC's Licensing Division to transfer or otherwise deal in that property (the electronic application can be found on OFAC s website here), and OFAC will evaluate such requests on a case-by-case basis.",Entities Owned by Persons Whose Property and Interest in Property are Blocked (50% Rule),,,
+403,,,,,,,
+404,,,,,,,
+405,,,,,,,
+406,,,,,,,
+407,,,,,,,
+408,,,,,,,
+409,,,,,,,
+410,,,,,,,
+411,,,,,,,
+412,,,,,,,
+413,,,,,,,
+414,,,,,,,
+415,,,,,,,
+416,,,,,,,
+417,,,,,,,
+418,,,,,,,
+419,,,,,,,
+420,,,,,,,
+421,,,,,,,
+422,02/02/2015,How do I get a copy of one or more of OFAC’s other sanctions lists (in addition to the Specially Designated Nationals list)?,"OFAC maintains other sanctions lists in addition to its Specially Designated Nationals (SDN) list. The names on these lists may also appear on the SDN list when such targets have a blocking provision associated with them. However, when the treatment of sanctions targets is unique and stops short of the blocking treatment, these names will appear on the one of OFAC's non-SDN lists. Links to the human-readable versions of these lists can be found here. Data versions of these lists are now being disseminated in a single, consolidated data file (known as the Consolidated Sanctions List). These data files can be found here.",Information on List File Formats and Downloads,,,
+423,,,,,,,
+424,,,,,,,
+425,,,,,,,
+426,,,,,,,
+427,,,,,,,
+428,,,,,,,
+429,,,,,,,
+430,,,,,,,
+431,,,,,,,
+432,,,,,,,
+433,,,,,,,
+434,,,,,,,
+435,,,,,,,
+436,,,,,,,
+437,,,,,,,
+438,,,,,,,
+439,,,,,,,
+440,,,,,,,
+441,,,,,,,
+442,,,,,,,
+443,,,,,,,
+444,,,,,,,
+445,,,,,,,
+446,,,,,,,
+447,,,,,,,
+448,,,,,,,
+449,,,,,,,
+450,,,,,,,
+451,,,,,,,
+452,,,,,,,
+453,,,,,,,
+454,,,,,,,
+455,,,,,,,
+456,09/21/2017,What does Executive Order (E.O.) 13722 do?,"E.O. 13722 blocks the Government of North Korea and the Workers’ Party of Korea; prohibits the exportation and reexportation of goods, services (including financial services), and technology to North Korea; and prohibits new investment in North Korea. E.O. 13722 also adds new designation criteria, some of which are mandatory criteria from the North Korea Sanctions and Policy Enhancement Act of 2016.",E.O. 13722,North Korea,,
+457,02/01/2018,Does Executive Order (E.O.) 13722 take into account United Nations Security Council Resolution (UNSCR) 2270 and domestic legislation?,Yes. E.O. 13722 implements certain U.S. obligations under UNSCR 2270 and certain provisions of the North Korea Sanctions and Policy Enhancement Act of 2016. U.S. sanctions against North Korea are generally broader than UN sanctions.,E.O. 13722,North Korea,,
+458,03/16/2016,Does the blocking of the Government of North Korea and the Workers’ Party of Korea impact the ability of U.S. persons to do business with or conduct transactions with entities in which either party has an interest?,"Yes. All property and interests in property of the Government of North Korea and the Workers’ Party of Korea are blocked. U.S. persons are generally prohibited from engaging in transactions with them without authorization from OFAC and must block property or interests in property that are in, or come within, the United States or the possession of a U.S. person.",,North Korea,,
+459,03/01/2018,"What impact does the prohibition on the exportation or reexportation of goods, services, or technology under Executive Order (E.O.) 13722 have on the regulations of the Department of Commerce’s Bureau of Industry and Security (BIS)?","None. E.O. 13722 prohibits the exportation or reexportation, from the United States, or by a United States person, of any goods, services, or technology to North Korea. BIS maintains authority to license exports and reexports of goods and technology subject to the Export Administration Regulations to persons who are not Specially Designated National (SDNs) and involving the Government of North Korea and the Workers’ Party of Korea. In most instances, to export to designated individuals and entities, U.S. persons must obtain a license from both OFAC and BIS. Regulated financial entities processing a transaction in accordance with an OFAC or a BIS license are encouraged to request a copy of the license to ensure the transaction meets the terms, conditions, and criteria of the license.",E.O. 13722,North Korea,,
+460,03/01/2018,Can U.S. persons do business with entities in North Korea?,"No. Unless authorized pursuant to a general or specific license from OFAC and/or BIS, Executive Order (E.O.) 13722 prohibits new investment in North Korea by a U.S. person and the exportation or reexportation, from the United States, or by a U.S. person, of any goods, services, or technology to North Korea. E.O. 13810 (“Imposing Additional Sanctions with Respect to North Korea”) does not modify any of those prohibitions.","E.O. 13722
+E.O. 13810",North Korea,,
+461,03/01/2018,Has OFAC issued general licenses for the North Korea program?,Yes. Several general licenses are incorporated into Subpart E of the North Korea Sanctions Regulations. See OFAC’s webpage on North Korea for any additional general licenses.,,North Korea,,
+462,03/01/2018,Can U.S. persons continue to send money to family or friends in North Korea?,"Yes. Section 510.511 of the North Korea Sanctions Regulations authorizes U.S. depository institutions (including banks), U.S.-registered brokers or dealers in securities, and U.S.-registered money transmitters to process non-commercial, personal remittances to or from North Korea, or for or on behalf of an individual ordinarily resident in North Korea, up to a maximum of $5,000 per year. Such transactions do not require further authorization from OFAC. This general license does not authorize any transactions by, to, or through a financial institution blocked pursuant to the Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544, or the Global Terrorism Sanctions Regulations, 31 C.F.R. part 594, or any person whose property and interests in property are blocked pursuant to any part of 31 C.F.R. chapter V other than part 510.",Personal remittances,North Korea,,
+463,03/01/2018,"Can nongovernmental organizations (NGOs) provide assistance to North Korea? If so, what types of assistance can NGOs provide? Can NGOs conduct transactions with the Government of North Korea?","Yes. Section 510.512(a) of the North Korea Sanctions Regulations authorizes NGOs to export or reexport services to North Korea that would otherwise be prohibited in support of the following activities: (1) activities to support humanitarian projects to meet basic human needs in North Korea, including drought, flood, and disaster relief; the distribution of food, medicine, and clothing intended to be used to relieve human suffering; the provision of shelter; the provision of clean water, sanitation, and hygiene assistance; the provision of health-related services; assistance for individuals with disabilities; and environmental programs; (2) activities to support democracy building in North Korea, including rule of law, citizen participation, government accountability, universal human rights and fundamental freedoms, access to information, and civil society development projects; (3) activities to support non-commercial development projects directly benefiting the North Korean people, including preventing infectious disease and promoting maternal/child health, sustainable agriculture, and clean water assistance; and (4) activities to support environmental protection, including the preservation and protection of threatened or endangered species and the remediation of pollution or other environmental damage. Additionally, section 510.512(c) authorizes U.S. depository institutions, U.S.-registered brokers or dealers in securities, and U.S.-registered money transmitters to process transfers of funds on behalf of U.S. or third-country NGOs, including to or from North Korea, in support of the activities identified above.
+
+In most instances, to export or reexport goods, services, or technology to designated individuals and entities, U.S. persons must obtain a license from both OFAC and the Bureau of Industry and Security of the Department of Commerce (BIS). A license from BIS is required to export or reexport any item subject to the Export Administration Regulations (15 CFR parts 730 through 744) (EAR) to North Korea, except food and medicine classified as EAR99. Section 510.512(b) authorizes NGOs to export or reexport from a third country to North Korea food and medicine in support of the activities listed above, provided that the food and medicine are not subject to the EAR. The exportation or reexportation by a U.S. person to North Korea from a third country of items that are not subject to the EAR and that are not food or medicine requires a specific license from OFAC.
+
+Section 510.512(d) authorizes NGOs to conduct limited transactions with the Government of North Korea that are necessary for the above-described activities, such as payment of reasonable and customary taxes and other fees. Partnerships and partnership agreements between NGOs and the Government of North Korea or other blocked persons that are necessary for NGOs to provide authorized services are not permitted without a specific license from OFAC.
+
+*For guidance on specific questions with respect to charitable donations or NGOs, and the scope of section 510.512, please contact OFAC.",,North Korea,,
+464,03/01/2018,Can I travel to North Korea?,"While OFAC sanctions do not prohibit U.S. persons from traveling to or from North Korea, as of September 1, 2017, U.S. passports are invalid for travel into, in, or through North Korea. However, in limited circumstances, applicants may be eligible for a Special Validation Passport from the State Department that will allow them to travel for specific purposes. See travel.state.gov for additional details. U.S. persons who intend to travel to North Korea via a Special Validation Passport do not require OFAC authorization to engage in activities that are exempt pursuant to 50 U.S.C. § 1702(b), such as travel to or from any country or the importation or exportation of informational materials. All other activities outside the scope of this exemption would require a specific license from OFAC, unless otherwise authorized by OFAC. See, for example, FAQ 558 for additional information regarding news reporting organizations and journalists.",Travel,North Korea,,
+465,,,,,,,
+466,,,,,,,
+467,,,,,,,
+468,04/21/2016,"How do I verify an OFAC document? For example, how do I know that an OFAC license or a Specially Designated Nationals (SDN) List removal letter is authentic?",,Basic Information on OFAC and Sanctions,,,
+469,04/21/2016,Does OFAC issue certificates of non-inclusion to help prove that a name is not on one of OFAC s sanctions lists?,,Basic Information on OFAC and Sanctions,,,
+470,,,,,,,
+471,,,,,,,
+472,,,,,,,
+473,,,,,,,
+474,,,,,,,
+475,,,,,,,
+476,,,,,,,
+477,,,,,,,
+478,,,,,,,
+479,,,,,,,
+480,,,,,,,
+481,,,,,,,
+482,,,,,,,
+483,,,,,,,
+484,,,,,,,
+485,,,,,,,
+486,,,,,,,
+487,,,,,,,
+488,,,,,,,
+489,,,,,,,
+490,,,,,,,
+491,,,,,,,
+492,,,,,,,
+493,,,,,,,
+494,,,,,,,
+495,,,,,,,
+496,,,,,,,
+497,,,,,,,
+498,,,,,,,
+499,,,,,,,
+500,04/12/2021,"I am an exporter of agricultural commodities, medicine, or medical devices to Sudan and have previously obtained specific licenses from OFAC for such exports. Do I still need to apply for a specific license from OFAC for exports or reexports of such items to Sudan?","No. As of December 14, 2020, no license from OFAC is required to export or reexport agricultural commodities, medicines, or medical devices to Sudan. ",General License,Sudan,,
+501,,,,,,,
+502,,,,,,,
+503,,,,,,,
+504,,,,,,,
+505,,,,,,,
+506,,,,,,,
+507,,,,,,,
+508,,,,,,,
+509,,,,,,,
+510,,,,,,,
+511,,,,,,,
+512,,,,,,,
+513,,,,,,,
+514,,,,,,,
+515,,,,,,,
+516,,,,,,,
+517,,,,,,,
+518,,,,,,,
+519,,,,,,,
+520,,,,,,,
+521,,,,,,,
+522,,,,,,,
+523,,,,,,,
+524,,,,,,,
+525,,,,,,,
+526,,,,,,,
+527,,,,,,,
+528,,,,,,,
+529,,,,,,,
+530,,,,,,,
+531,,,,,,,
+532,,,,,,,
+533,10/30/2017,"What are the requirements of CAATSA section 105 related to the imposition of sanctions on the IRGC, and how are those requirements being implemented?","On August 2, 2017, the President signed into law the Countering America s Adversaries Through Sanctions Act (Public Law 115-44) (CAATSA), which, among other things, imposes new sanctions on Iran. Section 105 of CAATSA requires the imposition of sanctions applicable pursuant to the global terrorism Executive Order 13224 on Iran s Islamic Revolutionary Guard Corps (IRGC) and foreign persons that are officials, agents, or affiliates of the IRGC. Consistent with that requirement of CAATSA, OFAC designated the IRGC on October 13, 2017, pursuant to E.O. 13224 for providing support to the IRGC-Qods Force, which previously had been designated for its support to various terrorist groups. In addition, effective October 31, 2017, OFAC amended the Global Terrorism Sanctions Regulations, 31 C.F.R. part 594, to block the property and interests in property of foreign persons that have been identified by OFAC as officials, agents, or affiliates of the IRGC.",Countering America's Adversaries Through Sanctions Act (CAATSA),,,
+534,10/30/2017,"Before October 13, 2017, wasn t the IRGC already subject to sanctions? What s different about applying terrorism-related sanctions to the IRGC and foreign persons that are officials, agents, or affiliates of the IRGC?","Before October 13, 2017, the IRGC was blocked under Executive Order 13382(relating to WMD proliferation), 13553 (relating to Iranian human rights abuses), and 13606 (relating to Iranian and Syrian human rights abuses via information technology), and persons who engaged in certain activity involving the IRGC were already subject to secondary sanctions. OFAC s October 13, 2017 action designating the IRGC under E.O. 13224 (relating to counterterrorism) and OFAC s October 31, 2017 action under the Global Terrorism Sanctions Regulations, 31 C.F.R. part 594 (GTSR), to block the property and interests in property of foreign persons that have been identified by OFAC as officials, agents, or affiliates of the IRGC carry additional consequences that limit certain activities with respect to the IRGC and foreign persons identified by OFAC as officials, agents, or affiliates of the IRGC. Certain exemptions available under the International Emergency Economic Powers Act (IEEPA) relating to personal communications, humanitarian donations, information or informational materials, and travel do not apply to transactions with persons designated under E.O. 13224 or otherwise blocked pursuant to the GTSR, which include the IRGC and foreign persons that have been identified by OFAC as officials, agents, or affiliates of the IRGC.",Countering America's Adversaries Through Sanctions Act (CAATSA),,,
+535,,,,,,,
+536,,,,,,,
+537,,,,,,,
+538,,,,,,,
+539,,,,,,,
+540,,,,,,,
+541,,,,,,,
+542,,,,,,,
+543,,,,,,,
+544,,,,,,,
+545,,,,,,,
+546,,,,,,,
+547,,,,,,,
+548,,,,,,,
+549,,,,,,,
+550,,,,,,,
+551,,,,,,,
+552,,,,,,,
+553,,,,,,,
+554,,,,,,,
+555,,,,,,,
+556,,,,,,,
+557,,,,,,,
+558,,,,,,,
+559,,,,,,,
+560,,,,,,,
+561,,,,,,,
+562,,,,,,,
+563,,,,,,,
+564,,,,,,,
+565,,,,,,,
+566,,,,,,,
+567,,,,,,,
+568,,,,,,,
+569,,,,,,,
+570,,,,,,,
+571,,,,,,,
+572,,,,,,,
+573,,,,,,,
+574,,,,,,,
+575,,,,,,,
+576,,,,,,,
+577,,,,,,,
+578,,,,,,,
+579,,,,,,,
+580,,,,,,,
+581,,,,,,,
+582,,,,,,,
+583,,,,,,,
+584,,,,,,,
+585,,,,,,,
+586,,,,,,,
+587,,,,,,,
+588,,,,,,,
+589,,,,,,,
+590,,,,,,,
+591,,,,,,,
+592,,,,,,,
+593,,,,,,,
+594,,,,,,,
+595,,,,,,,
+596,,,,,,,
+597,,,,,,,
+598,,,,,,,
+599,,,,,,,
+600,,,,,,,
+601,,,,,,,
+602,,,,,,,
+603,,,,,,,
+604,,,,,,,
+605,,,,,,,
+606,,,,,,,
+607,,,,,,,
+608,,,,,,,
+609,,,,,,,
+610,,,,,,,
+611,,,,,,,
+612,,,,,,,
+613,,,,,,,
+614,,,,,,,
+615,,,,,,,
+616,,,,,,,
+617,,,,,,,
+618,,,,,,,
+619,,,,,,,
+620,,,,,,,
+621,,,,,,,
+622,,,,,,,
+623,,,,,,,
+624,,,,,,,
+625,,,,,,,
+626,,,,,,,
+627,,,,,,,
+628,,,,,,,
+629,,,,,,,
+630,,,,,,,
+631,,,,,,,
+632,,,,,,,
+633,,,,,,,
+634,,,,,,,
+635,,,,,,,
+636,,,,,,,
+637,,,,,,,
+638,,,,,,,
+639,,,,,,,
+640,,,,,,,
+641,,,,,,,
+642,,,,,,,
+643,,,,,,,
+644,,,,,,,
+645,,,,,,,
+646,,,,,,,
+647,,,,,,,
+648,,,,,,,
+649,,,,,,,
+650,,,,,,,
+651,,,,,,,
+652,,,,,,,
+653,,,,,,,
+654,,,,,,,
+655,,,,,,,
+656,,,,,,,
+657,,,,,,,
+658,,,,,,,
+659,,,,,,,
+660,,,,,,,
+661,,,,,,,
+662,,,,,,,
+663,,,,,,,
+664,,,,,,,
+665,,,,,,,
+666,8/6/2019,What does E.O. 13871 do?,"E.O. 13871 authorizes sanctions with respect to the iron, steel, aluminum, and copper sectors of Iran.
+
+Section 1 of E.O. 13871 authorizes blocking sanctions on any person determined by the Secretary of the Treasury, in consultation with the Secretary of State:
+(i) to be operating in the iron, steel, aluminum, or copper sector of Iran, or to be a person that owns, controls, or operates an entity that is part of the iron, steel, aluminum, or copper sector of Iran;
+
+(ii) to have knowingly engaged, on or after the effective date of the order, in a significant transaction for the sale, supply, or transfer to Iran of significant goods or services used in connection with the iron, steel, aluminum, or copper sectors of Iran;
+
+(iii) to have knowingly engaged, on or after the effective date of the order, in a significant transaction for the purchase, acquisition, sale, transport, or marketing of iron, iron products, aluminum, aluminum products, steel, steel products, copper, or copper products from Iran;
+
+(iv) to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of any person whose property and interests in property are blocked pursuant to section 1; or
+
+(v) to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to section 1.
+
+Section 2 of E.O. 13871 authorizes correspondent and payable-through account sanctions on foreign financial institutions (FFIs) determined to have knowingly conducted or facilitated any significant financial transaction:
+
+(i) for the sale, supply, or transfer to Iran of significant goods or services used in connection with the iron, steel, aluminum, or copper sectors of Iran;
+
+(ii) for the purchase, acquisition, sale, transport, or marketing of iron, iron products, aluminum, aluminum products, steel, steel products, copper, or copper products from Iran; or
+
+(iii) for or on behalf of any person whose property and interests in property are blocked pursuant to the order.
+
+Sections 3-13 of E.O. 13871 contain exceptions, definitions, and other implementing provisions related to the sanctions. ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+667,8/6/2019,When does E.O. 13871 become effective?,E.O. 13871 became effective upon signing. ,"Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+668,8/6/2019,Is there a wind-down period?,"Persons engaged in transactions that could be sanctioned under E.O. 13871 had a 90-day period after the issuance of E.O. 13871 to wind down those transactions without exposure to sanctions under E.O. 13871. Those persons were advised to take the necessary steps to wind down transactions by the end of the 90-day wind-down period to avoid exposure to sanctions, and that entering into new business that would be sanctionable under the E.O. on or after May 8, 2019 will not be considered wind-down activity and could be sanctioned even during the wind-down period. The wind-down period expires on August 6, 2019.","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+669,8/6/2019,"Does E.O. 13871 expand upon existing sanctions relating to trade with Iran in certain raw and semi-finished metals, such as aluminum and steel?","Yes. E.O. 13871 expands upon existing sanctions under section 1245 of IFCA on the sale, supply, or transfer, directly or indirectly, to or from Iran of certain materials, including raw and semi-finished metals such as aluminum and steel, as described in subsections 1245(a)(l)(B) or (C) of IFCA.
+ 
+In addition, E.O. 13871 explicitly targets the iron and copper sectors of Iran. ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+670,8/6/2019,Are there exceptions to the sanctions imposed under E.O.13871?,"Yes. The sanctions authorized under E.O. 13871 do not apply to transactions for the conduct of the official business of the United States Government or the United Nations (including its specialized agencies, programmes, funds, and related organizations) by employees, grantees, or contractors thereof. ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+671,8/6/2019,How are the terms significant transaction or transactions; significant financial services; significant financial transaction interpreted for purposes of correspondent or payable-through account sanctions set forth in section 2 of E.O. 13871?,"The interpretation of significant transaction or transactions; significant financial services; significant financial transaction, as described in the correspondent account sanctions in the IFSR, provides that the Department of the Treasury may consider the totality of the facts and circumstances and sets forth a list of broad factors that can play a role in the determination whether transactions, financial services, and financial transactions are significant, including:  (a) the size, number, and frequency of the transactions, financial services, or financial transactions; (b) the nature of the transactions, financial services, or financial transactions, including their type, complexity, and commercial purpose; (c) the level of awareness of management and whether the transactions are part of a pattern of conduct; (d) the nexus of the transactions, financial services, and financial transactions and blocked persons; (e) the impact of the transactions, financial services, and financial transactions on statutory objectives; (f) whether the transactions, financial services, and financial transactions involve deceptive practices; (g) whether the transactions solely involve the passive holdings of Central Bank of Iran (CBI) reserves or repayment by the CBI of official development assistance or the transfer of funds required as a condition of Iran s membership in an international financial institution; and (h) other relevant factors that the Secretary of the Treasury deems relevant. (31 C.F.R. § 561.404).","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+672,,,,,,,
+673,,,,,,,
+674,,,,,,,
+675,,,,,,,
+676,,,,,,,
+677,,,,,,,
+678,,,,,,,
+679,,,,,,,
+680,,,,,,,
+681,,,,,,,
+682,8/6/2019,"What does the August 06, 2019 regulatory amendment related to E.O. 13871 do?","The regulatory amendment: (i) implements the correspondent or payable-through account sanctions set forth in section 2 of E.O. 13871 by incorporating those provisions in the Iranian Financial Sanctions Regulations, 31 C.F.R. part 561 (IFSR); (ii) renames the Iranian Human Rights Regulations, 31 C.F.R. part 562, as the Iranian Sector and Human Rights Abuses Sanctions Regulations (ISHR); and (iii) implements the blocking sanctions set forth in section 1 of E.O. 13871 by incorporating those provisions in the ISHR. ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+683,8/6/2019,How is the term significant transaction or transactions interpreted for purposes of blocking sanctions set forth in section 1 of E.O. 13871?,"The interpretation of significant transaction or transactions, as described in the ISHR provides that the Department of the Treasury may consider the totality of the facts and circumstances and sets forth a list of broad factors that can play a role in the determination whether transactions are significant, including: (a) the size, number, and frequency of the transactions; (b) the nature of the transactions, or the goods or services for sale, supply, or transfer, including their type, complexity, and commercial purpose; (c) the level of awareness of management and whether the transactions are part of a pattern of conduct; (d) the nexus of the person that engaged in the transactions and the prohibited activities in sections 1(a)(ii) and 1(a)(iii) of E.O. 13871; (e) the impact of the transactions on the objectives of E.O. 13871; (f) whether the transactions attempt to obscure or conceal the actual parties or true nature of the transactions, or evade sanctions; and (g) other relevant factors that the Secretary of the Treasury deems relevant. (31 C.F.R. § 562.407).","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+684,8/6/2019,What is the definition of the iron sector of Iran ?,"The term iron sector of Iran means the mining, refining, processing, or manufacturing of iron or iron products in Iran. (31 C.F.R. § 561.336; 31 C.F.R. § 561.317).","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+685,8/6/2019,What is the definition of the steel sector of Iran ?,"The term steel sector of Iran means the iron-ore smelting, ferrous-scrap melting, refining, processing, or manufacturing of steel or steel products in Iran. (31 C.F.R. § 561.337; 31 C.F.R. § 562.318).","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+686,8/6/2019,"What are the definitions of iron, iron products, steel, and steel products ?","The terms iron, iron products, steel, and steel products mean any raw, semi-fabricated, fabricated, or finished form of iron, iron alloy, alloy steel, non-alloy steel, ferroalloys, pig iron, and spiegeleisen of all grades, sizes, and thicknesses, whether or not clad, plated, or coated, including in the following forms:  iron ores and concentrates, including roasted iron pyrites; pigs and blocks; ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps or pellets; granules and powders; ingots, blooms billets, slabs, and beam blanks; flat-rolled products (plates, sheets, strips, and foils) either cut-to-length or in coils; bars and rods; structural profiles (beams, channels, angles, and other shapes); sheet piling; railway or tramway track construction materials; tubes, pipes, and hollow profiles; tube or pipe fittings; reservoirs, tanks, vats, and similar containers; wire, stranded wire, ropes, cables, and plaited band; castings, stampings, and forgings; and ferrous waste and scrap, including slag.  (31 C.F.R. § 561.335; 31 C.F.R. § 562.316). ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+687,8/6/2019,What is the definition of the aluminum sector of Iran ?,"The term aluminum sector of Iran means the mining, refining, processing, or manufacturing of aluminum or aluminum products in Iran. (31 C.F.R. § 561.332; 31 C.F.R. § 562.313).","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+688,8/6/2019,What are the definitions of aluminum and aluminum products ?,"The terms aluminum and aluminum products mean any raw, semi-fabricated, fabricated, or finished form of aluminum or aluminum alloy of all grades, sizes, and thicknesses, including in the following forms:  ores and concentrates (e.g., bauxite and alumina); unwrought aluminum including ingots, slabs, and billets; powders and flakes; wrought aluminum including bars, rods, profiles, plates, sheets, strip, foil, tubes, and pipes; tube or pipe fittings; reservoirs, tanks, vats, and similar containers; wire, stranded wire, ropes, cables, and plaited band; castings, stampings, and forgings; waste and scrap, including slag, and any aluminum and aluminum products produced from the melting or recycling of aluminum scrap.  (31 C.F.R. § 561.331; 31 C.F.R. § 562.312).","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+689,8/6/2019,What is the definition of the copper sector of Iran ?,"The term copper sector of Iran means the mining, refining, processing, or manufacturing of copper or copper products in Iran.  (31 C.F.R. § 561.334; 31 C.F.R. § 562.314). ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+690,8/6/2019,What are the definitions of copper and copper products ?,"The terms copper and copper products mean any raw, semi-fabricated, fabricated, or finished form of copper or copper alloy of all grades, sizes, and thicknesses, including in the following forms:  ores and concentrates; copper mattes; cement copper (precipitated copper); refined, unrefined, wrought, or unwrought copper; billets; cathodes; bars, rods, profiles, plates, sheets, strips, foil, tubes, and pipes; tube and pipe fittings; powders and flakes; reservoirs, tanks, vats, and similar containers; wire, stranded wire, ropes, cables, and plaited band; castings, stampings, and forgings; and waste and scrap, including slag.  (31 C.F.R. § 561.333; 31 C.F.R. § 562.314). ","Executive Order (E.O.) Imposing Sanctions with Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran of May 8, 2019",Iran,,
+691,9/5/2019,Will the provision of bunkering services to a non-Iranian vessel carrying sanctionable goods to or from Iran be subject to sanctions?,"If a non-Iranian vessel is transporting sanctionable goods to or from Iran (including, but not limited to, petroleum, petroleum products, or petrochemical products from Iran; goods used in connection with the automotive sector of Iran; or iron, iron products, aluminum, aluminum products, steel, steel products, copper, or copper products from Iran), bunkering of that non-Iranian vessel in a country other than Iran and related payments for these bunkering services risk being subject to sanctions unless an applicable waiver or exception applies. For example, persons providing bunkering services to a non-Iranian vessel transporting petroleum or petroleum products from Iran could be designated under subsection 1(a)(ii) of E.O. 13846 if such activities involve the provision of material support for, or goods or services to or in support of, NIOC or NICO. Persons that knowingly provide bunkering services to a non-Iranian vessel carrying only petroleum or petroleum products from Iran could likewise be sanctioned under section 3(a)(ii) of E.O. 13846 if that transaction is determined to be a significant transaction for the purchase, acquisition, sale, transport, or marketing of those items.","Iran Freedom and Counter-Proliferation Act (IFCA) 
+Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR)
+E.O. 13846",Iran,,
+692,9/5/2019,Will the provision of bunkering services for an Iranian vessel be subject to sanctions?,"Section 1244(d)(1) of IFCA makes sanctionable knowingly selling, supplying, or transferring to or from Iran significant goods or services used in connection with Iran s energy, shipping, or shipbuilding sectors. (See FAQ 289 above for an interpretation of significant. ) The provision of bunkering services to a vessel flying the flag of the Islamic Republic of Iran, or owned, controlled, chartered, or operated directly or indirectly by, for, or on behalf of the Government of Iran (GOI) or an Iranian person, could be sanctionable under this authority, regardless of whether the transaction involves persons that have been determined to be part of Iran s energy, shipping, or shipbuilding sectors pursuant to Section 1244(c) of IFCA. Likewise, pursuant to section 1244(d)(2) of IFCA, a foreign financial institution could be exposed to sanctions if it knowingly conducts or facilitates a significant financial transaction for the sale, supply, or transfer to or from Iran of goods or services used in connection with Iran s energy, shipping, or shipbuilding sectors. Payments for the provision of bunkering services to a vessel flying the flag of the Islamic Republic of Iran or owned, controlled, chartered, or operated directly or indirectly by, for, or on behalf of the GOI or an Iranian person could be sanctionable under this authority, regardless of whether the transaction involves persons that have been determined to be part of Iran s energy, shipping, or shipbuilding sectors pursuant to Section 1244(c) of IFCA. (See FAQ 295).
+
+In addition, non-U.S. persons that provide bunkering services for an Iranian vessel that has been identified as blocked property of an Iranian person on OFAC s List of Specially Designated Nationals and Blocked Persons or that make related payments for these bunkering services risk being designated themselves
+
+However, the provision of bunkering services for an Iranian vessel transporting goods subject to an exception, such as agricultural commodities, food, medicine, or medical devices, to Iran, or subject to an applicable waiver and the making of related payments for these bunkering services will not be exposed to sanctions, unless the transactions involve persons on the SDN List that have been designated under E.O. 13224 or E.O. 13382 in connection with Iran s support for international terrorism or proliferation of weapons of mass destruction, including certain designated Iranian financial institutions or the Islamic Revolutionary Guard Corps (IRGC), as described in section 104(c)(2)(E) of CISADA, or activity that is subject to other sanctions authorities. ",Iran Freedom and Counter-Proliferation Act (IFCA) Iranian Financial Sanctions Regulations (31 CFR part 561) (IFSR),Iran,,
+693,9/6/2019,"What did the September 9, 2019 amendment to the Cuban Assets Control Regulations (CACR) do?","Effective October 9, 2019 an amendment to the CACR revises certain authorizations for remittances to Cuba to impose new requirements and limitations, eliminates the authorization for donative remittances, and revises the authorization commonly known as the U-turn general license.
+
+The September 9, 2019 amendment revises the U-turn general license located at 31 CFR § 515.584(d) to eliminate the authorization for banking institutions subject to U.S. jurisdiction to process U-turn transactions; i.e., funds transfers that originate and terminate outside the United States where neither the originator nor beneficiary is a person subject to U.S. jurisdiction. The amended U-turn general license authorizes banking institutions that are persons subject to U.S. jurisdiction to reject and not require them to block such transactions. For more on changes to the U-turn general license, please see FAQ 757.
+With respect to remittances, the September 9, 2019 rule amends the general license authorizing family remittances to (1) place a cap of $1,000 as the maximum amount that one remitter can send to one Cuban national as a family remittance per quarter, and (2) exclude close relatives of prohibited officials of the Government of Cuba or close relatives of prohibited members of the Cuban Communist Party as authorized recipients of family remittances. (The prohibited officials themselves were already barred from being recipients of such remittances. See 31 CFR § 515.570(a), as well as 31 CFR § 515.339 for the definition of close relatives .) The September 9, 2019 rule also amends the general license authorizing remittances to certain individuals and independent non-governmental organizations in Cuba to now authorize remittances to certain additional self-employed individuals (See 31 CFR § 515.570(g), as well as 31 CFR § 515.340, for the new definition of self-employed individuals ). Effective October 9, 2019, OFAC eliminated the general license for donative remittances that was previously located at 31 CFR § 515.570(b). For more on changes to remittances, please see FAQ 732.",Cuba Sanctions,Cuba,,
+694,,,,,,,
+695,,,,,,,
+696,,,,,,,
+697,,,,,,,
+698,,,,,,,
+699,,,,,,,
+700,,,,,,,
+701,,,,,,,
+702,,,,,,,
+703,,,,,,,
+704,,,,,,,
+705,,,,,,,
+706,,,,,,,
+707,,,,,,,
+708,,,,,,,
+709,,,,,,,
+710,,,,,,,
+711,,,,,,,
+712,,,,,,,
+713,,,,,,,
+714,,,,,,,
+715,,,,,,,
+716,,,,,,,
+717,,,,,,,
+718,,,,,,,
+719,,,,,,,
+720,,,,,,,
+721,,,,,,,
+722,,,,,,,
+723,,,,,,,
+724,,,,,,,
+725,,,,,,,
+726,,,,,,,
+727,,,,,,,
+728,,,,,,,
+729,,,,,,,
+730,,,,,,,
+731,,,,,,,
+732,,,,,,,
+733,,,,,,,
+734,,,,,,,
+735,,,,,,,
+736,,,,,,,
+737,,,,,,,
+738,,,,,,,
+739,,,,,,,
+740,,,,,,,
+741,,,,,,,
+742,,,,,,,
+743,,,,,,,
+744,,,,,,,
+745,,,,,,,
+746,,,,,,,
+747,,,,,,,
+748,,,,,,,
+749,,,,,,,
+750,,,,,,,
+751,,,,,,,
+752,,,,,,,
+753,,,,,,,
+754,,,,,,,
+755,,,,,,,
+756,,,,,,,
+757,,,,,,,
+758,,,,,,,
+759,,,,,,,
+760,,,,,,,
+761,,,,,,,
+762,,,,,,,
+763,,,,,,,
+764,,,,,,,
+765,,,,,,,
+766,,,,,,,
+767,,,,,,,
+768,,,,,,,
+769,,,,,,,
+770,,,,,,,
+771,,,,,,,
+772,,,,,,,
+773,,,,,,,
+774,,,,,,,
+775,,,,,,,
+776,,,,,,,
+777,,,,,,,
+778,,,,,,,
+779,,,,,,,
+780,,,,,,,
+781,,,,,,,
+782,,,,,,,
+783,,,,,,,
+784,,,,,,,
+785,,,,,,,
+786,,,,,,,
+787,,,,,,,
+788,,,,,,,
+789,,,,,,,
+790,,,,,,,
+791,,,,,,,
+792,,,,,,,
+793,,,,,,,
+794,,,,,,,
+795,,,,,,,
+796,,,,,,,
+797,,,,,,,
+798,,,,,,,
+799,,,,,,,
+800,,,,,,,
+801,,,,,,,
+802,,,,,,,
+803,,,,,,,
+804,1/31/2020,Do sanctions on COSCO Shipping Tanker (Dalian) Seaman & Ship Management Co. apply to its corporate parent and affiliates?,"COSCO Shipping Tanker (Dalian) Seaman & Ship Management Co. was determined by the Secretary of State on September 25, 2019, to meet the criteria for the imposition of sanctions under Executive Order (E.O.) 13846, and the Secretary of State imposed certain sanctions, including blocking, on this entity. The blocking sanctions apply only to this listed entity and any entities in which it owns, directly or indirectly, a 50 percent or greater interest. Sanctions do not apply to this entity’s ultimate parent, COSCO Shipping Corporation Ltd. (COSCO). Similarly, sanctions do not apply to COSCO’s other subsidiaries or affiliates (e.g., COSCO Shipping Holdings), provided that such entities are not owned 50 percent or more in the aggregate by one or more blocked persons. U.S. persons, therefore, are not prohibited from dealing with COSCO, its non-blocked subsidiaries, or non-blocked affiliates to the extent the proposed dealings do not involve any blocked person, or any other activities prohibited pursuant to any OFAC sanctions authorities.
+
+With respect to transactions involving non U.S. persons outside of U.S. jurisdiction, please see FAQ 805.",E.O. 13846,Iran,,
+805,,"Are non-U.S. persons exposed to sanctions for providing goods or services to, or engaging in other transactions with, a non-Iranian person sanctioned under section 3 of E.O. 13846?","No, non-U.S. persons are generally not exposed to sanctions for providing goods or services to, or engaging in other transactions with, a non-Iranian person sanctioned under section 3 of E.O. 13846.
+
+However, please note that non-U.S. persons should ensure that the provision of goods or services to, or other transactions with such non-Iranian persons do not involve: (1) prohibited transactions by U.S. persons (including U.S. financial institutions) or U.S.-owned or -controlled foreign entities, unless the transaction is exempt from regulation, or authorized by OFAC; (2) the knowing provision of significant support to an Iranian person on OFAC s List of Specially Designated Nationals and Blocked Persons (SDN List); or (3) the knowing facilitation of a significant transaction for a person on the SDN List that has been designated in connection with Iran s support for international terrorism or proliferation of weapons of mass destruction, including designated Iranian financial institutions or the Islamic Revolutionary Guard Corps (IRGC), or other activity for which sanctions have been imposed with respect to Iran (e.g., knowingly engaging in a significant transaction for the purchase of petroleum from Iran).
+
+For information about persons sanctioned by State Department pursuant to Section 3 of E.O. 13846, please see the relevant State press statement or Federal Register Notice.",E.O. 13846,Iran,,
+806,,,,,,,
+807,,,,,,,
+808,,,,,,,
+809,,,,,,,
+810,12/11/2019,"On December 11, 2019, the State Department announced that it would designate the Islamic Republic of Iran Shipping Lines (IRISL) and E-Sail Shipping Limited ( E-Sail ) under Executive Order (E.O.) 13382, effective June 8, 2020. IRISL and E-Sail are already listed on the SDN List. What will be the impact of the State Department s designation of these entities under E.O. 13382?","On November 5, 2018, OFAC identified IRISL and E-Sail on the SDN List with the [IRAN] tag to indicate that they are entities meeting the definition of the Government of Iran whose property and interests in property are blocked pursuant to E.O. 13599.
+ 
+Following their designation by the State Department under E.O. 13382 on June 8, 2020, OFAC will add the [NPWMD] and [IFSR] tags to the entries for IRISL and E-Sail on the SDN List. As a result, transactions by U.S. persons or within (or transiting) the United States involving IRISL and E-Sail will be subject to the prohibitions in the Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544 (WMDPSR), in addition to the prohibitions in E.O. 13599 implemented through the Iranian Transactions and Sanctions Regulations, 31 C.F.R. part 560 (ITSR). Non-U.S. persons that knowingly engage in certain transactions with IRISL or E-Sail risk exposure to sanctions under additional authorities. ","E.O. 13599
+E.O. 13382
+Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. part 544",Iran,,
+811,,,,,,,
+812,,,,,,,
+813,,,,,,,
+814,,,,,,,
+815,,,,,,,
+816,,,,,,,
+817,,,,,,,
+818,,,,,,,
+819,2/20/2020,"Is the June 21, 2019 amendment to the Office of Foreign Assets Control (OFAC)'s Reporting, Procedures and Penalties Regulations in effect? A I required to comply with all requirements of the amended regulations?",,,,,
+820,,,,,,,
+821,,,,,,,
+822,,,,,,,
+823,10/26/2020,Do non-U.S. persons risk exposure to U.S. secondary sanctions for engaging in humanitarian-related transactions or activities involving the Central Bank of Iran (CBI) or the National Iranian Oil Company (NIOC) that U.S. persons would be authorized to engage in under General License No. 8A (GL 8A)?,"No. Non-U.S. persons generally do not risk exposure under U.S. secondary sanctions relating to Iran for engaging in the sale of agricultural commodities, food, medicine, or medical devices to Iran, as such transactions are generally subject to exceptions in otherwise applicable authorities, provided the transactions do not involve persons designated in connection with Iran’s support for international terrorism or weapons of mass destruction (WMD) proliferation. Non-U.S. persons do not risk exposure under U.S. secondary sanctions for engaging in humanitarian-related transactions or activities involving the CBI, NIOC, or any entity in which NIOC owns a 50 percent or greater interest, that would be authorized under GL 8A if engaged in by a U.S. person, provided such transactions and activities do not involve any person designated in connection with Iran’s support for international terrorism or WMD proliferation, other than the CBI, NIOC, or any entity in which NIOC owns a 50 percent or greater interest.",,Iran,,
+824,,,,,,,
+825,,,,,,,
+826,,,,,,,
+827,03/05/2020,What does Nicaragua-related General License (GL) 2 authorize with respect to the Nicaraguan National Police?,"GL 2 authorizes the wind down of transactions involving the Nicaraguan National Police (NNP), including the processing of salary payments from the NNP to its employees, so long as no other blocked persons are involved in the transaction, through 12:01 a.m. eastern daylight time, May 6, 2020. This authorization also covers wind down transactions involving any entity in which NNP owns, directly or indirectly, a 50 percent or greater interest. 
+
+OFAC’s designation of the NNP is directed at the NNP as an institution for the violent abuses carried out against the people of Nicaragua. The blocking sanctions apply to the NNP, as well as to the three named NNP commissioners who were designated on the same day, and not to individual, non-designated NNP police officers",,Nicaragua,,
+828,,,,,,,
+829,,,,,,,
+830,,,,,,,
+831,,,,,,,
+832,,,,,,,
+833,,,,,,,
+834,,,,,,,
+835,,,,,,,
+836,,,,,,,
+837,,,,,,,
+838,,,,,,,
+839,,,,,,,
+840,,,,,,,
+841,,,,,,,
+842,,,,,,,
+843,,,,,,,
+844,,,,,,,
+845,,,,,,,
+846,,,,,,,
+847,,,,,,,
+848,,,,,,,
+849,,,,,,,
+850,,,,,,,
+851,,,,,,,
+852,,,,,,,
+853,,,,,,,
+854,,,,,,,
+855,,,,,,,
+856,,,,,,,
+857,,,,,,,
+858,,,,,,,
+859,,,,,,,
+860,,,,,,,
+861,,,,,,,
+862,,,,,,,
+863,,,,,,,
+864,,,,,,,
+865,,,,,,,
+866,,,,,,,
+867,,,,,,,
+868,,,,,,,
+869,,,,,,,
+870,,,,,,,
+871,,,,,,,
+872,,,,,,,
+873,,,,,,,
+874,,,,,,,
+875,,,,,,,
+876,,,,,,,
+877,,,,,,,
+878,,,,,,,
+879,,,,,,,
+880,3/14/2021,"Do the prohibitions in Executive Order 13959, as amended (E.O. 13959), apply with respect to Xiaomi Corporation?",,E.O. 13959,,https://home.treasury.gov/policy-issues/financial-sanctions/faqs/880,
+881,,,,,,,
+882,,,,,,,
+883,,,,,,,
+884,4/5/2021,"Do non-U.S. persons, including nongovernmental organizations (NGOs) and foreign financial institutions, risk exposure to U.S. secondary sanctions pursuant to the Caesar Syria Civilian Protection Act of 2019 (Caesar Act) for activities that would be authorized under the Syrian Sanctions Regulations (SySR)?",,,,,
+885,,,,,,,
+886,,,,,,,
+887,,,,,,,
+888,,,,,,,
+889,,,,,,,
+890,,,,,,,
+891,,,,,,,
+892,4/28/2021,"What is the difference between the previous version of Sanctions List Search, and the upgraded version made live to the public on January 25, 2021?","OFAC’s Sanctions List Search application has been available to the public since 2011. Over the years the tool’s userbase grew to a point where the original infrastructure and design for the application could not keep up with demand. In late 2020, OFAC took steps to increase the tool’s efficiency to improve its performance.
+
+The primary update was the addition of a new algorithm to the tool’s fuzzy logic search functionality. The upgraded application still utilizes the original Soundex and Jaro-Winkler algorithms in addition to the new algorithm (see this link for more information on the upgrade). As a result of this update, users may see differences in search results when compared to an earlier version of the tool. If users had previously tested Sanctions List Search in order to determine how the tool could assist in their due diligence, it is recommended that such testing be repeated on the current version of the tool. OFAC may continue to periodically update and/or make changes to the tool. While OFAC has no immediate plans to further upgrade the application’s fuzzy logic functionality users should watch OFAC’s website for information about future upgrades. As such, users are to advised that they are using a free service at their own risk, and that best practice dictates each user performs baseline checks to see how updates/changes to the tool may affect search results.
+
+For more information regarding how the tool works and calculates scores, please refer to FAQs 246, 247 and 249. For more information on who may use the tool, please see FAQ 287. ",,,,
+893,5/6/2021,"Do the prohibitions in Executive Order 13959, as amended (E.O. 13959), apply with respect to Luokung Technology Corp.?","On March 9, 2021, the Secretary of Defense listed Luokung Technology Corp. (""Luokung""), pursuant to section 4(a)(ii) of E.O. 13959.  On May 5, 2021, the U.S. District Court for the District of Columbia issued an order in Luokung Technology Corp. v. Department of Defense (Case No. 1:21-cv-00583-RC) preliminarily enjoining the implementation and enforcement of the E.O. 13959 prohibitions against Luokung.  Consequently, the prohibitions in E.O. 13959 do not apply with respect to Luokung pending further order of the Court.",E.O. 13959,,,
+894,,,,,,,
+895,,,,,,,
+896,,,,,,,
+897,,,,,,,
+898,,,,,,,
+899,,,,,,,
+900,,,,,,,
